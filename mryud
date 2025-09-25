@@ -4124,4 +4124,14 @@ https://seneng.org/v/driveid-190035-bluray-1080-terbit21-com-me-and-you-2012.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="Mr_Yud" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",Undercover Party Crasher (2025)
 https://seneng.org/v/driveid-196858-webrip-1080-terbit21-com-undercover-party-crasher-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-logo="Mr_Yud" group-title="MOVIE SATURDAY", Sorority new
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jun/08/Sorority.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Mr_Yud" group-title="MOVIE SATURDAY", Celestina new
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/Celestina.Burlesk.Dancer.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Mr_Yud" group-title="MOVIE SATURDAY", 40 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/40.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Mr_Yud" group-title="MOVIE SATURDAY", Elevator new
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/16/Elevator.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Mr_Yud" group-title="MOVIE SATURDAY", Blommers new
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/07/Late.Bloomers.2024.mp4/tracks-v1a1/mono.m3u8
 
