@@ -4090,3 +4090,18 @@ https://seneng.org/v/driveid-190035-bluray-1080-terbit21-com-me-and-you-2012.m3u
 #EXTINF:-1 type="" group-title="Mr_naga" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",Undercover Party Crasher (2025)
 https://seneng.org/v/driveid-196858-webrip-1080-terbit21-com-undercover-party-crasher-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 1
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 2
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 3
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 4
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 5
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live5.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 6
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live6.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 7
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live7.m3u8
+
