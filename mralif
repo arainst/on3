@@ -4203,115 +4203,169 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live6.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_AL", 1LIVE 7
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live7.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu8Yo1Q8MqOyCfY2LQda7BZoWEbawJNupAjfZine0XnA&s=10" group-title="Mr_AL", Sorority 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jun/08/Sorority.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVgDRvpwqT6hbmhCEl04EDSVNOq5WjeBeBiTHp9DeEZw&s" group-title="Mr_AL", Celestina 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/Celestina.Burlesk.Dancer.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rCVThGWLu9kcKO3Ft2WKsWm_Vsn5CTS7LH6w32FKXg&s=10" group-title="Mr_AL", 40 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/06/40.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kROPe_YrewM19TXiK-AtkNJJkeNzVYudqNvjfeh-dw&s=10" group-title="Mr_AL", Elevator 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/16/Elevator.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjqBkC8SuuDbEVuKHMV4MauZN8hgRqH5Z0oR880P2JQ&s=10" group-title="Mr_AL", Blommers 
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/07/Late.Bloomers.2024.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTUwYTU0ODctMzFmYS00NjM0LTllYTQtM2FhNGU1NGIwNmI0XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg" group-title="Mr_AL", 8MM 2 (2005)
-https://pixeldra.in/api/file/9t1PDA3u?download
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tCNjaxAF9xCcXCRH2iiS54nHFWK.jpg" group-title="Mr_AL", Through My Window: Across the Sea (2023)
-https://pixeldra.in/api/file/Fm6hXdRb?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhQrHRJ7/image.png" group-title="Mr_AL", Addicted (2014)
-https://pixeldra.in/api/file/JTi7TtcE?download
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlRtqHgojXdgDEiun8p_-25-wr9_FRMZz5sv_2Dfl-Z5Yp76zkuK_L7KY&s=10" group-title="Mr_AL", Alpha Wolf (2018)
-https://pixeldrain.net/api/file/C7aeLr2c?download
-#EXTINF:-1 tvg-logo="https://iili.io/3pDpLkQ.jpg" group-title="Mr_AL", And God Created Woman (1956)
-https://pixeldrain.net/api/file/5a8VSWyX?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZnN2Q03/Antares-2004.jpg" group-title="Mr_AL", Antares (2004)
-https://pixeldrain.net/api/file/AE9S3mLi?download
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c7ce8afed150784c79386f49ce6628d54ab9166384a0dd9c000c8619beb464d0.jpg" group-title="Mr_AL", Babygirl (2024)
-https://pixeldra.in/api/file/fregYvgJ?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w4xvyvS/image.jpg" group-title="Mr_AL", Tiger, Blood in the Mouth (2016)
-https://pixeldrain.net/api/file/GhQnLccQ?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc3Dy2z6/image.png" group-title="Mr_AL", Body Double (1984)
-https://pixeldra.in/api/file/tiWAHmWQ?download
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5SRC9mL/image.png" group-title="Mr_AL", Burning Betrayal (2023)
-https://pixeldra.in/api/file/FJ9izmpU?download
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Opn9aPs8UCBJQ6lqou3i8f9omC.jpg",Sponsor (2025)
-https://seneng.org/v/driveid-195524-webdl-1080-terbit21-com-sponsor-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zNHgQRaflknCSRvKFepqvsHVimG.jpg",Hiram na Sandali (2025)
-https://seneng.org/v/driveid-195435-webdl-1080-terbit21-com-hiram-na-sandali-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",The Love Scam (2025)
-https://seneng.org/v/driveid-194546-webrip-1080-terbit21-com-the-love-scam-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9dnneVdueeaSsIPkNBpE9EzALyM.jpg",Stripped: Nashville (2024)
-https://seneng.org/v/driveid-198051-webrip-1080-terbit21-com-stripped-nashville-2024.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tNoRpzsrOOFISEtXbllD0RgfzVt.jpg",The Last Wife (2023)
-https://seneng.org/v/driveid-192216-webdl-1080-terbit21-com-the-last-wife-2023.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/b41M28V6GcA94NAvn24SVz6qfvB.jpg",Vampyres (2015)
-https://seneng.org/v/driveid-192913-bluray-1080-terbit21-com-vampyres-2015.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/c9E75h8viwCwrZIuVGzJujQQU5i.jpg",Malibu Road (2021)
-https://seneng.org/v/driveid-190308-webrip-1080-terbit21-com-malibu-road-2021.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bvwPVIo33VT192KRx4aBiWTQ5Fc.jpg",Me & You (2012)
-https://seneng.org/v/driveid-190035-bluray-1080-terbit21-com-me-and-you-2012.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="" group-title="Mr_AL" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/dcoc4C57lCpAzBr2qojFjRCKO9E.jpg",Undercover Party Crasher (2025)
-https://seneng.org/v/driveid-196858-webrip-1080-terbit21-com-undercover-party-crasher-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkRD13A7yDMczRbRRyrFPQSCBo-1wCpCxboBUcHnt2Tw&s=10" group-title="Mr_AL",The Art of Ligaw
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401082428.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaMr0xEKUs9ktuFpktfsgscZEJdSAgASxfeMSQissOg&s=10" group-title="Mr_AL",First Taste Unang Tikim
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486750.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1x1GLt6_8lgSPxJzkaN6juZ-RQ6FnjENUIzZ27tU0Ig&s=10" group-title="Mr_AL",Patikim-tikim
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401075313.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50k9ZYZGv6TKi8jNch4uPCZ_nRpa6xu1ipS8Mnxl5_A&s=10" group-title="Mr_AL",Pagdating ng Panahon
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401075515.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-vsZ_gZ6by1VRZqjCSTygssHjcVk2R1CLyCtqyByrSQ&s=10" group-title="Mr_AL",Foursome
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074443.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRHlGgZOUZG7FmIEBbGqOYd_llpQIC0i0Aq42VVfcQIQ&s=10" group-title="Mr_AL",Higop
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074446.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdk8VkWBJSwULQcJVPOu_gKmXTh-l7Xw7-wmRUat79zA&s=10" group-title="Mr_AL",Paraluman
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400256754.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJowWVDNO1jEpM8infQKJJZonurEKHDleY340DcceuYw&s=10" group-title="Mr_AL",Alapaap
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400639951.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc2M1QdhwCHmSoRXbXvDas9S18Ru6vasV8ZIRtOOJ-5w&s=10" group-title="Mr_AL",Kinsenas, Katapusan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401078615.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYSntNKAw3O0gf5t6s16oUSo5dpbxot-vVUD4HYf2Ig&s=10" group-title="Mr_AL",Showroom
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400639962.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFgsIiwDpVqitd5R28dvR7xYhLI7jwnLi5SY8l9WHGCA&s=10" group-title="Mr_AL",Kitty K7
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401076851.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Clwm4CYxQFevVU4PEwBjKihtg3_VVanh2rRDbs7NwA&s=10" group-title="Mr_AL",Salitan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074457.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKk8XM7b84Nqn9k41OxjMvj-d_Otvkw_XRqOkLIaDNQ&s=10" group-title="Mr_AL",Takas
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401033877.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRNsEmIFox5QoNebF93SX9C_1BY4fSVWFokXDt0RNmXg&s=10" group-title="Mr_AL",Katas
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401033875.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaZaP1jLll_eAKHVfwXB42LQLGBWPZiHTno1g-uYtTSg&s=10" group-title="Mr_AL",Pantasya ni Tami
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074453.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMyeDv_OXyYEA31eLvqMspkrj6cVdy-S7VDmy_Ric4Q&s=10" group-title="Mr_AL",Salawahan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401033876.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a95JvwqH931-zN8JDq9WekQeP8VWQ2uhXnzSgA_MNQ&s=10" group-title="Mr_AL",Salisihan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074456.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo-oR2t9hHkuVUclR1kYBKUP5QrNIsXoHVhqWJpbvHw&s=10" group-title="Mr_AL",Kabit
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074447.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxlGe3TvJAk22iGsQoX9OUzVDqgL9r3vBeE17pyBZKw&s=10" group-title="Mr_AL",Eks
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074442.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LNTFWJBMclZO8aA4sJqCikM5wJZ7iZtnVWb-At0Bcw&s=10" group-title="Mr_AL",Kalikot
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074448.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4eDKNZWmggpoL316LG5LHm79cAvoe7kt-Xg3DjFmuA&s" group-title="Mr_AL",Kapalit
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401074449.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzmXUtoTD6f8h8LaPLr_YLvvUDvDJsAEs3qcn8mfaAOQ&s=10" group-title="Mr_AL",Kulong
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486755.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnsPGHEVxtG4yTjGKjI1tOiwIXtZ739m_NFMHigUDxQ&s=10" group-title="Mr_AL",Serbidoras
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486759.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEEaiHxJKIzi-HNsEPcFye6S82joYCHZuSNzV7XGW0A&s=10" group-title="Mr_AL",Himas
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486754.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho4O14WPuf4B1Y-6iIdk4AW4QYyZBslwapDMqcAeBew&s=10" group-title="Mr_AL",Linya
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486756.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVf4vkwtBvRM4KjQYIQ_O6SsU88dvw_dKu10-6t7ktA&s=10" group-title="Mr_AL",Sisid Marino
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486760.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdW1Ply5uZ4IEOlMBPrjZOvaIgLhgDsuG_2kYx_9wgbA&s=10" group-title="Mr_AL",Huwad 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401474134.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_5guCYuOvTvMzw6CsBRyads_PQa9idEt_yvokYg5dg&s=10" group-title="Mr_AL",Maliko 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401474139.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CpUi-jUEGCr7RdBT9pvYp-08qO-Wg08kJfl1zvfwEQ&s=10" group-title="Mr_AL",Hiraya
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401456288.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9um-MZDnSqWHUVNtERURWuarc8q9YSsKatqva_3rEg&s=10" group-title="Mr_AL",Kaulayaw 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401474136.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlUJ_uuK87sasyWjwnWAfgUU_GAWiZk9x57FZLH6u_Gg&s=10" group-title="Mr_AL",Maharot
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401456292.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xYEbP8GQC3utqPW4FAoGRRRm1B1vs436D-8eeNNM5Q&s=10" group-title="Mr_AL",Daddysitter 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401474130.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYgY4W8Ox2CB0XQi-w5p17B1mFQXH5CgpuaR_KBfmGw&s=10" group-title="Mr_AL",Uhaw
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401456296.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpyfuRVpEYwWiNRQdI7VmANEXYHF8U_9mwtiq5a670OA&s=10" group-title="Mr_AL",Paluwagan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401456293.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nnTW3EosYPCEmx3BQGF8XlH_rVXDghME2gqA21-Z0g&s=10" group-title="Mr_AL",Undergrads 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401490002.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqjfa4rmCIqfxBQHwLp84Pjz0LXl4ltUS8mbAjr4MLA&s=10" group-title="Mr_AL",Halinghing
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401441041.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_I1u1FQ8CRkH_91BZE2Tzt8_awgbG8J8AiLLjxyl_Q&s=10" group-title="Mr_AL",Ungol
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486762.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyTEm2NS5v8Cizc431r84gEN763QFXdctnsQV5Mlw-g&s=10" group-title="Mr_AL",Maryang Palad
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401486757.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/The_Housemaid_%282025_film_poster%29.jpeg" group-title="Mr_AL", The house mate new
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/17/The.Housemaid.2021.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcmWxJZGJMjQlmzDngYdwgdlKumDcdCGKMjsEaZdEdQ&s=10" group-title="Mr_AL", Sugar baby new
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/13/Sugar.Baby.2023.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Y0TsBtlTzJDoEwEwk8GS5tBbHqy6AuY3bAVTy2emYw&s=10" group-title="Mr_AL", Salakab new
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2023/Nov/15/SALAKAB.2023.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQe2ikcPfkiAinK6uTpS6WnDbS6W5lUn51aslIOvfEwg&s=10" group-title="Mr_AL", Once before new
-https://cdn7iv.diebutx.com/ownhls/2020/f4db85a05cf9f2924f4750ee57e3432f/1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVO9yg4CFUdEvt7wGZfDKLpQJxDkbFucD20VvF3hW7Ow&s=10" group-title="Mr_AL", A seccret affair new
-https://cdn7iv.diebutx.com/ownhls/2020/73785f118631e04dda42ff3bd118a8a8/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkYljiEJ2eUjOnDMBlGVzDPRKTNgrUZvr_XpCzlrC-vQ&s=10" group-title="Mr_AL", Cuddle weather new
-https://cdn7iv.diebutx.com/ownhls/2020/9841075bdd70fa72443fb6be9e9470a6/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlGIsrtU98Rz9Qfb9bUxUUtWXforBdcgn_ofjEPGhc9g&s=10" group-title="Mr_AL", Siklo new
-https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/01/19/task1/5f0f4e9332bc3c73b11fe186183ab48f/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjU-vY0OBHE7AIUR3gA0aJvblmfsXyG3ICJIszrQGiZg&s=10" group-title="Mr_AL", Alter me new
-https://cdn7iv.diebutx.com/newgoogle/2021/u1/storage/hls/309c6af64750112a9e4f32df7835c68f/540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6VkN5dt4hNOgp9wqJv_5LPR6mlxw8IA-YlhlnS9K8Q&s" group-title="Mr_AL", In your eyes new
-https://cdn7iv.diebutx.com/ownhls/2020/3593dc51056488c532f81af59e69e589/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Nqabtloj705Ta2majMjrAhWWe89rSdKWKbpzQINbnQ&s=10" group-title="Mr_AL", Pusoy new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/05/17/task1/e8fe205e815dbc799a1e198c6c24f2b2/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkijRyTkfk3RNbX4-ZHWrXfQSKb9t4ptePDNpYATcpFw&s=10" group-title="Mr_AL", Palitan new
-https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/02/06/task1/11ca3a33324f41cf9c16dcd1cdd09fba/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMy2vapti4X5InlDBeLqrbzsY2UIJ_dFxLaOqyx7YYw&s=10" group-title="Mr_AL", Silab new
-https://cdn7iv.diebutx.com/storage/2022/st3.google.co/2022/02/06/task1/fe0b3a352db6256bd1aac0f777de7829/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuJy4UhnCfdXl8QbS2IqDHtzvlbYX-KrRIWEIuO3f0OA&s=10" group-title="Mr_AL", Fan girl new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/03/task1/79a053560113a0115837ff8ec903f3f3/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVekX1pL3zEngUvCMYFl_odDoNQdj4Ldh1XUBPniREw&s=10" group-title="Mr_AL", Sitio diablo new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/08/09/task1/8f6750e4323f5d14067128b4f21cc6d4/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiJ-dsSNOKka3TMg_dmqgnBerWN4JMf_9IQt4e5pTkw&s=10" group-title="Mr_AL", Sunday night fever new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st4.google.co/2022/07/01/task1/1626e3ac97e6c2e689e3f2f54d5b9f73/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS917CsUKZOfSHXChmVhSjQ53OMlckh_qryVxbDPJ98yg&s=10" group-title="Mr_AL", Boso dos new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/01/05/task1/f9b2debf030013eaa050f803c57f2b33/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSPtdoftcUCezrgfubMBQRhghckU054yAlvjypU-rDg&s=10" group-title="Mr_AL", Sapul new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/01/task1/8cccd4e19819a157105a2a3d512df85f/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq0giEJgdvlYLRuqXR4gQvRImU4Sva3NZKJ4gsfopYjA&s=10" group-title="Mr_AL", Sex games new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/02/task1/d1b3a8aa8fb309dd25fbd994dee14f2d/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8ThbAzuGpeJkCYG4WSTSfZhXpYRvHSP5ZOCmi6_J1w&s=10" group-title="Mr_AL", Paupahan new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/03/09/task1/dbce4e64de9185570aee70b8525f0456/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtTVWbh97kR7GH8ehFfRBNroMeabIzUqT7AZdRoW2SA&s=10" group-title="Mr_AL", Sitsit new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/02/09/task1/cb860aefe5a62eeddc5f5b3184f8fc14/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4-kLMTuZ7g66aNaNuLQOO6OPG0RRzqGACA4UlqkWCQ&s=10" group-title="Mr_AL", Hugot new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/06/01/task1/4a32e4d46e1febe6b69dca09e815d5c9/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50GPiyvbQ9FL8lDGyJ6igC__MQSe7VKtVkCMrENiN6A&s=10" group-title="Mr_AL", Dulo new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/08/task1/ed783863a0b7ee7435d184e36996eb26/720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpdXRvxuNF2UTVf2N1rbch3hLJQC4uc5brxjS7FPFr9g&s=10" group-title="Mr_AL", Sandwich new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/12/task1/138f381ca1661494f48bf95a2de52cc8/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwBCDW0VMQG_mcGD1lzgsdClpg5DL9juS6tJO--c3pw&s=10" group-title="Mr_AL", Kabayo new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/05/03/task1/79c92c0e143f5183aa1b8ec656942f30/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyUpMJC5wyE_KKiS8X0aUMV6yOtmWTL7rJGDICVRumw&s=10" group-title="Mr_AL", Afam new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/06/task1/91e18227fd27ea5d780c49ae9c6817da/360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62EJJJhJzL09PeQdLl1sXMBaatBEUd67Pcsc41Mrdcw&s=10" group-title="Mr_AL", Fall guy new
-https://cdn7iv.diebutx.com/bighlsstorage/2021/st6.google.co/2023/04/07/task1/5c2a5562aea6d4103e40f49865c6caf0/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVO9yg4CFUdEvt7wGZfDKLpQJxDkbFucD20VvF3hW7Ow&s=10" group-title="Mr_AL",A Secret Affair
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400256704.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoOnDWmHgwL_l9r-3Av8seTPznSbnPUoCdCdPJXa10g&s=10" group-title="Mr_AL",Glorious 39
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400256724.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt9WyJVkeouvFAC15bEklwBHtG0oh7PRhKuYSpbVrDg&s=10" group-title="Mr_AL",The Housemaid
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401079167.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKh_SxkZ9re0fBaYtw8tPRdqks8948xV1A1K8aMrflQ&s=10" group-title="Mr_AL",Steal
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401080882.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Under The Bed Volume 2 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109900.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Under The Bed Volume 1
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109899.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Casting Claudia Garcia 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109952.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",CastingGina Gerson What A Lovely 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109951.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",MegaLoad Ginger Grey Gingers 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109758.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="MOVIESATURDAY",Private Mary Rock Relaxes 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109767.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Agent  Vaness Queen 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109772.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Room Mila Monet 
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109789.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_AL",Prime Alexia Anders No Special Occasion
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109784.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjuZaZZfqREbrubn07H0qGrecHEVmafy5Y2U7loJxBlg&s=10" group-title="Mr_AL",365 Days This Day [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400388906.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOEJrnAzslc-IG368NrHqcwm84SeGVHNlN9nF_LWSVA&s=10" group-title="Mr_AL",365 Days [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/233676.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1q8bUqigkbt9CxaeXfZG-Ro-R43e_nNsbaTmDxc8Zng&s=10" group-title="Mr_AL",A Simple Favor [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400982563.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sPWJ_utepkU3kZrbaQC6XKDrB5I1ty78mAnrRKMGaw&s=10" group-title="Mr_AL",The Boy Next Door [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401076610.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBu9ELW4Q5IIVjb29yBtUBOpHngJvqv1ask7_NexMxJQ&s=10" group-title="Mr_AL",Gerald's Game [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400220680.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC4d8uqQKa_9cnnu2Bu2EI3uujjEdxAD7FSudZDq4big&s=10" group-title="Mr_AL",Blue Valentine [MULTI-SUB] 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400230180.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9NqMHkwDREHBKfaTSJ3bwon-dBzo3WtgaUAqktBsqg&s=10" group-title="Mr_AL",Secretariat [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401136956.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarpWKCSvamimDWS6XXZ-vs37vi-ouywzsd8_Py07gCw&s=10" group-title="Mr_AL",Blue Is the Warmest Color [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400229796.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrs0gZzmb6G4fDuc7vjXfaDOnk5EyoAlsqrm9WR98bNg&s=10" group-title="Mr_AL",Oh, Ramona! [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/234387.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_7Q5_s_ikgd_qqUbEePhSJY_2wYFrJc10zknGeF4-g&s=10" group-title="Mr_AL",Friday Night Sext Scandal [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401160054.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt73k8J5FVgzQf3M-flF26Eij3A_0RqbuP_IItUAYBJQ&s=10" group-title="Mr_AL",How to Have Sex [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401011602.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4fkORXpKM0zFJB-1Jq4jkD7YyDJcmH5jvsYFSswYLQ&s=10" group-title="Mr_AL",Love, Sex and 30 Candles [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400732427.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJNAthvDoWbCU2zSyTP5If3wUDmusQTTXZc33o8SqUQ&s=10" group-title="Mr_AL",Sex Appeal [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400302256.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxek5yZz-H0JJHp1R4il7hiqN6ciMMFBJOaBFgWpUftg&s=10" group-title="Mr_AL",Sex Unzipped [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400279722.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslNbXnF5wofiBF6fGFKP2UKpuDilfiUQY7lulIxI6rg&s=10" group-title="Mr_AL",Dirty Sexy Saint [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/234004.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Wf1fpjrVq1vHCsxKhxzBU376IpSyKhL1F079wGyNag&s" group-title="Mr_AL",Sex And The Future [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/234517.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVH_tz05LhT27yKdcu3hn6gtU0oqnMP-170_Hd883zQ&s=10" group-title="Mr_AL",Gone Girl [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/376530.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4xoboJ6FXwsod7nZzfNcHmI5ec6od-a1BrHMgRSXHQ&s=10" group-title="Mr_AL",Magic Mike's Last Dance [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400560387.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAxEMzC56p33uBsJE1atBFmLp7-vmzPPCzTKc2R2pU3Q&s=10" group-title="Mr_AL",Another Simple Favor [MULTI-SUB]
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401682894.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMA5_yKmY8rC3Xbmu-uDFI90zoOZFS_odhETXhDti0dw&s" group-title="Mr_AL", Tusok Tusok
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401732192.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSsYeYGS2Ehh849ECL-JKJ3lM16HyyMlXzv3sCb9nxVw&s=10" group-title="Mr_AL", EVOL
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401732188.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSlxyFEf_SHmuliJ1Np2hoMeB321xH4bBhQ0DjEHpIA&s=10" group-title="Mr_AL", Deep Inside: Angeli Khang
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401732187.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZFTvbmIJtczV6fjpBNmZlHZokCfelgA0n2LYTRUi8iQ&s=10" group-title="Mr_AL", Maalikaya
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401732190.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbEJYV0rnn1Rw8lngC-xtIj3gNvOw9XMGSleMARgt9w&s=10" group-title="Mr_AL",Obsesyon
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401732191.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS0tePG-ZLgFcNCp2csDCrbP3ijsgcT_B0vOzEHma4jg&s=10" group-title="Mr_AL",Arouse
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401689002.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz9MAm0vdAXnExnS9pG6UBwqk5fRJFbPxA_8RQ8uKsiA&s=10" group-title="Mr_AL",Elevator Lady
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401664396.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Qz5jb8dHg9BcU1jC8BKI2PduTvbWeGnTygVESYtXlg&s=10" group-title="Mr_AL",Habal
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401689003.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KkmVcpFhKnlq9dJSck8hcaG9uAoe15nH7WQUzKn8Pw&s=10" group-title="Mr_AL",Hiram
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401689004.mp4
+
+
 
