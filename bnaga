@@ -191,7 +191,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
  
 
-#EXTM3U billed-msg="🔵UPDT: MOVIE SATURDAY JUGA DI GALERY PUSTAKA"
+#EXTM3U billed-msg="🔵UPDT: DEWA UPDATE: DONE"
 
 ========================================================== BERITA =====================================================================
 
@@ -4252,25 +4252,6 @@ http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401079167.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKh_SxkZ9re0fBaYtw8tPRdqks8948xV1A1K8aMrflQ&s=10" group-title="Mr_naga",Steal
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401080882.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Under The Bed Volume 2 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109900.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Under The Bed Volume 1
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109899.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Casting Claudia Garcia 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109952.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",CastingGina Gerson What A Lovely 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109951.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",MegaLoad Ginger Grey Gingers 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109758.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Private Mary Rock Relaxes 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109767.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Agent  Vaness Queen 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109772.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Room Mila Monet 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109789.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga",Prime Alexia Anders No Special Occasion
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109784.mp4
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjuZaZZfqREbrubn07H0qGrecHEVmafy5Y2U7loJxBlg&s=10" group-title="Mr_naga",365 Days This Day [MULTI-SUB]
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/400388906.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFOEJrnAzslc-IG368NrHqcwm84SeGVHNlN9nF_LWSVA&s=10" group-title="Mr_naga",365 Days [MULTI-SUB]
@@ -4329,346 +4310,277 @@ http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401689003.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KkmVcpFhKnlq9dJSck8hcaG9uAoe15nH7WQUzKn8Pw&s=10" group-title="Mr_naga",Hiram
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401689004.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga2", 1LIVE 1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga2", 1LIVE 2
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga2", 1LIVE 3
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live3.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga2", 1LIVE 4
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga", 1LIVE 5
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/13/a8/5f13a8a026708128f852e527ca45baca.jpg" group-title="Mr_naga2", 1LIVE 5
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Live5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_0D-GEpNn9TZh1xvoLupgyHAr0Anc79EKvT459ts3w&s=10" group-title="Mr_naga2",1 Unli Pop (2025) not vlc
+https://ichinime.4meplayer.pro/hls/WIU8sp28cS61fqEkrV6Q7w/rqz/r8czn6n1/c1ahlk/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/g0LeBq_4c.jpg?v=1" group-title="Mr_naga2",1 Paalam, Salamat (2025) not vlc
+https://ichinime.4meplayer.pro/hls/DX22tvXSMU56vV9ktSZL9Q/epu/unjvofj6/jvr3m9/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8iystNtZ11b_kli2w-goqy2CYZ8bmN_zjVBllL0c7w&s=10" group-title="Mr_naga2",1 Patikim ni Robb Guinto (2025) not vlc
+https://ichinime.4meplayer.pro/hls/62UQS7XRRk_GsRucrortbA/x68/j3tfqvon/kqhgna/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST74o5qX67lySfb5fqtDSSox9so2ZYKtV4x8MAXuAifA&s=10" group-title="Mr_naga2",1 Lipad (2025) not vlc
+https://ichinime.4meplayer.pro/hls/pJuXdpD49L71RIAimh_j-g/tab/dq8wrfez/5yo6hh/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrS_X9IaKOldiICnqHvfMyY70gX32GYVC_1mGjoxtLgFdpmFqdDDatQMc&s=10" group-title="Mr_naga2",1 Samsara 2025 not vlc
+https://sf21.vidplayer.live/hls/6idYzjFlWGRZlQ6PoU7FBQ/epu/85vbcgx1/bsgzcc/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="mmmm" group-title="Mr_naga2",1 Kiskis 2025 not vlc
+https://sf21.rpmvid.com/hls/ZIjj5ydn1zqIvO3TVR6o0Q/xy/j3tfqqof/85sy1x/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcjzoYAGZ5et-Df_fi-DIfcLgZW2eA23TaZ425YLcaLrbhA1qoNBjm7iW&s=10" group-title="Mr_naga2",1 Maybe forever not vlc
+https://sf21.rpmvid.com/hls/rQSFK4JGqYDjVeh6dbp8IQ/36/mehogopx/ncms9v/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="mmmm" group-title="Mr_naga2",1 Angpamungkas 2025 not vlc
+https://sf21.rpmvid.com/hls/EbpiYUqMo33bZW5GieLPUA/36/6sprij6i/6sqz3m/tt/index-f2-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCFROFzH8zivkkVp08QlHAsFJQ-xrZ7JgLC7_S-zilQ&s=10" group-title="Mr_naga2",1 The jowa 2026 not vlc
+https://sf21.rpmvid.com/hls/pqccCRvh_CI7fD4MlhEy-Q/ox/xieummsk/h981qw/tt/index-f2-v1-a1.m3u8?v=1758651105
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Резвый (2009)
-https://video5.tizam.cc/films/kaydens-frisky-business-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Любовь (2011)
-https://video5.tizam.cc/films/tango-to-romance-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Вместе (2009)
-https://video5.tizam.cc/films/always-and-forever-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Путь (2024)
-https://video5.tizam.cc/films/put-k-slave-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Рецепт (2011)
-https://video5.tizam.cc/films/recipe-for-romance-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Семейный (2024)
-https://video5.tizam.cc/films/pump-kin-spice2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Думаю (2024)
-https://video5.tizam.cc/films/open-house2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Похабщина (2006)
-https://video5.tizam.cc/films/pirate-fetish-machine-25-kinkyworld-1.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Мачеха (2024)
-https://video5.tizam.cc/films/maceha-ne-jaleet-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Черная (1997)
-https://video5.tizam.cc/films/tayna-zamka-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",дома (2024)
-https://video5.tizam.cc/films/novaya-iruwka-doma2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Русский (2004)
-https://video5.tizam.cc/films/russian-institute-lesson-3-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Распутное (2021)
-https://video5.tizam.cc/films/very-sinful-christmas-a-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Русский 6 (2005)
-https://video5.tizam.cc/films/russian-institute-lesson-6-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Пусть она (2024)
-https://video5.tizam.cc/films/pyst-prisoedinitsya2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Секс (2024)
-https://video5.tizam.cc/films/sex-at-eight-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2"Пока  (2015)
-https://video5.tizam.cc/films/till-death-do-us-part-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Бесплатный (2024)
-https://video5.tizam.cc/films/freeuse-big-tits-latina-milf-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Счастливые (2021)
-https://video5.tizam.cc/films/happy-ending-hairdressers-russ-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Подчинение (2016)
-https://video5.tizam.cc/films/submission-of-emma-marx-the-exposed-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Сексуальные (2023)
-https://video5.tizam.cc/films/elegant-sexy-ladies-vol-2-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Увлеченные (2024)
-https://video5.tizam.cc/films/single-minded-russs-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Сны (2024)
-https://video5.tizam.cc/films/reenacting-sex-dreams2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Эп. 4 (2024)
-https://video5.tizam.cc/films/single-minded-episode-4-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Лос-Анджелесе (2022)
-https://video5.tizam.cc/films/one-night-in-los-angeles-rus-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Потерянные (2002)
-https://video5.tizam.cc/films/virtualia-episode-6-lost-in-sex-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Признания (2015)
-https://video5.tizam.cc/films/hot-wife-confessions-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Эпизод 2 (2024)
-https://video5.tizam.cc/films/ghosted-ep-2-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Месть (2022)
-https://video5.tizam.cc/films/revenge-movie-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Подвоха (2024)
-https://video5.tizam.cc/films/nikogo-podvoha2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Голоса (2024)
-https://video3.tizam.cc/films/getting-the-mIlf-vote2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",возбужденная (2014)
-https://video5.tizam.cc/films/my-horny-family-japan-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Модель (1999)
-https://video3.tizam.cc/films/das-model2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Выходные (2023)
-https://video3.tizam.cc/films/sex-weekend-with-cherry-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",и Найти (2011)
-https://video5.tizam.cc/films/lost-and-found-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Моя Мачеха (2023)
-https://video5.tizam.cc/films/my-chheating-stepmom-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Эпизод  (2024)
-https://video5.tizam.cc/films/ghosted-ep-4-2.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Норму (2024)
-https://video5.tizam.cc/films/back-to-normal2.mp4
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/10/rjsS3Q2GoZ1WaUj6ylSAWyamy0p-152x228.jpg",1 Basang Basa (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/PJ-sgECZpgbgDpZ-br_l6g/hz/sku8pvep/euctt8/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/l1vVrAs2dtxiSYnD1f5G8iFc6UH-152x228.jpg",1 Kirot (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/WYtTbDCwlG4tp42KeqF0eA/x68/yg69bzwq/oc58ci/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/1XET89sjRm9mUuHXhGIlKTNd5uD-152x228.jpg",1 Prisoner of War (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/cThdFUVLD-Ar7kri4Ew86w/djx/zbxs1fsy/xsiogn/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/iPPuXhl8JgKzaJZH72JsQuZQF4X-152x228.jpg",1 Foreign Exchange (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/QMndDxr63nPQ6mfmTbjZHA/9ow/v1fiapn9/qa3erq/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/skDPgdxQATycdxQzn8RQ5JV22jF-152x228.jpg",1 Todo Kayod (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/p1Ha15E4e_3MCHefK1IUJQ/luy/krn5u5uw/msbs3n/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/uiW2ff73RZzPABKtnjW5wmt43CU-152x228.jpg",1 Kontrabida Academy (2025)
+https://playerngefilm21.rpmlive.online/hls/YqY8N1UA6B1MzfSNoeNB2w/is3/krn5u5uw/hu6w9g/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/rCwhCTq7ztgTKTP6u25eWfTvUBo-152x228.jpg",1 Barurot (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/r6I8Me0_CstJIZSJJ9mUBQ/9ow/r8cznln3/o8hpgo/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/09/sjVNJaJn6fqmGnBDEmBcNxs5NaK-152x228.jpg",1 Lakad (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/QZAEFOTfTbN3zP6RDcJ0eQ/mik/9drtky6d/dc6vxt/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/ta7JKGq0jhx2xJPrUw8yXheJaOf-152x228.jpg",1 Bulong Ng Laman (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/zKOS7BPnSLYHEze5RweV1Q/is9/b6ikxe9bk/xhcgkl/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/k5oCFurPRDAD2Fa1jriy0A3yGwN-152x228.jpg",1 Pasilip Ni Azi (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/ewCt1dSRKBaZaSTaU8is5g/is9/85vbcnxg/kjfwpj/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/uB2Opos65gHaPSeyziXW4XDHPZT-152x228.jpg",1 Sa Gabing Mainit (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/Xe9qQCtBbwgUo933VZ2S6g/is9/unjvobjj/gpjm9t/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/7s0S70dwEOhrIGMV2nowoN9eqCY-152x228.jpg",1 69 (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/yKtW-1TUaCehTz5sPzqd6g/mik/6sprin6v/ntytn9/tt/index-f1-v1-a1.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/08/fGR13i2lRMMg7Nkv66rcQxF6nia-152x228.jpg",1 Victoria’s Silver (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/EskaD532I5WNzkiV2Wor4g/hld/mehogopx/msimo8/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/eqZJAbakH1UlGyDOeUC1pVUPncw-152x228.jpg",1 Ligaya (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/I7p9op1oL5hossdWhy1efA/xy/nc31jv1j/hkmgt5/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/wR9eEcyaxZB1bz4AepFvLevxHke-152x228.jpg",1 Tusok Tusok (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/MrPaM_tCw57iSQsaf3c-JA/gee/nc31jv1j/vf8916/tt/master.m3u8?v=1758651105
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://new20.ngefilm.site/wp-content/uploads/2025/07/vkzyTpOYbeEWZkHFCBtqLiJ7b4U-152x228.jpg",1 Maalikaya (2025) not vlc
+https://playerngefilm21.rpmlive.online/hls/V3jxpiomwX83mtBBp9mA_Q/5c/lod395ee/poxz55/tt/master.m3u8?v=1758651105
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Barretta Lovely In Lingerie
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99083.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Clara Trinity Too Cute 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99082.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Tatty Rios Tatty Teases 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99081.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Clara Trinity Sexy Vibes 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99080.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Mara Solo Pleasures 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99079.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Clara Trinity Here For Fun 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99078.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Clara Trinity Fitness Fun 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99077.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Cecelia Taylor Sweet 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99076.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Cecelia Taylor Petite Princess
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99075.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Cecelia Taylor 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99074.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Cecelia Taylor Her Pleasure
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99073.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Mileva Cute For You 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99072.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Leane Morning 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99071.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Leane Hot In Here
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99070.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Leane Curvy Cutie 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99069.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Jenny Tovar Tempted 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99068.mp4
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/pred-804.jpg",PRED-804 Di Kantor Polos, Di Ranjang Buas! – Miu Shiromine
+https://video.moonfile.xyz/vod/data/master.m3u8?data=TDK3mQr2jivS-OXz4mTB8ekVoOct8PqFJEbtOIFMmx20QVSf-aMuvvUWUxnV0WvfO4wELISyBgD2S5pymsUZ-HHP4PqmvG61o9rg-zWorag
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/adn-338.jpg",ADN-338 Suami Adikku Ternyata Bajingan – Hijiri Maihara
+https://video.moonfile.xyz/vod/data/master.m3u8?data=SfvsefFJZBj9M2u8uT07sTl2EgVzc7DtwHJcJWBhwq2hbTKUyVrVIE1RS8cGGoRkvTfrlITNRaO_v1FmvoN-4UGFHgZ4uVmNFh7nqqSHnf8
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/dass-261.jpg",DASS-261 Berhubungan Seks Dengan Istri Bos Cantik Bertubuh Indah – Mary Tachibana
+https://video.moonfile.xyz/vod/data/master.m3u8?data=mRVwlXOrtxdObNdZhrGFaUeCJcewLKAqM4lOlrCdwpCR1cOjdK_0RBLipj2bclDlb1PLHSU5HdsXXaIuUjkXMYxX1hvH_66ui4MgF4pkTlg
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/jux-086.jpg",JUX-086 Susu Buat Bayi, Dinikmati Ipar – Mona Kasuga
+https://video.moonfile.xyz/vod/data/master.m3u8?data=paHZWWRhDO1bRC5bUTeBG_KCgSmOAiGDq0ibeIc5-m7B_OSeY2x69p9meqcPYeoZp6TNAniK0BDZIrdQTeQpzZ6G-F_cJZ-bzNtqEHDT0iM
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/ipzz-629.jpg",IPZZ-629 Dibantu Keluar Oleh Perawat – Tsumugi Akari
+https://video.moonfile.xyz/vod/data/master.m3u8?data=0DGucsJRRHIcGzOnb046Gd6q7et6Z6youEicbJqU4mXI6KQljDVTMzUjbPp787j5zKd1AOaVcLyEl8dwV_wzTWmwmx9vrW2bWeQj3NhAefo
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/mngs-021.jpg",MNGS-021 Masa Iya, Klimaks Semudah Itu – Akane Mitani
+https://video.moonfile.xyz/vod/data/master.m3u8?data=hhx4YSXuASR5Z94D1c-xQEuw0MFbE-B8BIhgc8Cfs1Fl9aNmIB1uQ44Y_Um23CjZzL9JrdwgLHHeBpafkcxP6ce4nUm6ZEhbxBIHcuqD1l0
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/sone-811.jpg",SONE-811 Memang Salahku Tergoda Nafsu – Kanna Seto
+https://video.moonfile.xyz/vod/data/master.m3u8?data=Yt78laahglcWbKUqChVBgU33yrjyShUHB9iS_dKdA99VlBTlI4FN3I02vwJX4KJ94TOjgvquusWbYj1oi7VI__7xdkMdXVXR8GF4Y5cKtuw
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/fsdss-701.jpg",FSDSS-701 Tetangga Baru Tidak Hanya Cantik Tapi Juga Bisa Dientod – Moe Amatsuka
+https://video.moonfile.xyz/vod/data/master.m3u8?data=vCduka01yLJYfbW1eBroqZVJaPv-axXcizpzT0EKsS2WWpCorWT8Ob2x8-3Yfqi_G7yh1KggiinzaKOa3853ONSEny4BVtv4gFo2Ltw3NO4
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/sone-815.jpg",SONE-815 Pengorbanan Agen Real Estate – Mei Washio
+https://video.moonfile.xyz/vod/data/master.m3u8?data=65GNqoUbFZ7Lk1-FM0aa38dLHJ3rV2mRck_bHfYCcCToYR6ZihVFQxyXI0X5UlZ26qjvg3CXIn1WBC8cCfosP3QADV5ivZcKFMJP4uZv9Cw
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/roe-395.jpg",ROE-395 Survey Ibu-Ibu Komplek – Honami Hazuki
+https://video.moonfile.xyz/vod/data/master.m3u8?data=Un3_h5RbWzon3dfzAq1TdzdyQHklnTqAgLVRxYexn7XzAt7H1JorpYNts9Lez6Nw69WH6bU_MTym7JGuqk67skAoEVGOiPo4qoqArzKYAEo
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/dvaj-702.jpg",DVAJ-702 Diminta Berpura Pura Jadi Pacar – Konatsu Kashiwagi
+https://video.moonfile.xyz/vod/data/master.m3u8?data=rVs85AtTx-6V9c42J-2EW5q2bKtZeYo51rLcbo1Ot6iZY96M2aeLz3RJjKxMJ_ExCfvMvMcmNLgXXc9qQHi6TorHTcCyn4K5IVjgZ0aSJk0
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/abf-246.jpg",ABF-246 Pembalasan Untuk Wanita Arogan – Remu Suzumori
+https://video.moonfile.xyz/vod/data/master.m3u8?data=Ag0u3jSBREC8RdZQezGqAxM2gOFowrFlZjpHwyp-yz5kh3hvQUO0NwUNyoZ6EVVzfS9bE4Ow9f0qp_Ns4Iapp0QTxwc0fy0vjUOaph4rMdg
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/cjod-208.jpg",CJOD-208 Diperkosa Atasan Sampai Spermanya Habis – Yui Hatano
+https://video.moonfile.xyz/vod/data/master.m3u8?data=51cBY1XhKpgYqTe_CYqAezFqMqYr1503l0oZC3M0-4VzUkH8cUeSZNy4Pw-HqkqadQrEq9BIHJGAcsiWF3hmhzUixzRw69RKgx9dfcfS1Zk
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/roe-276.jpg",ROE-276 Ibuku Kekasihku – Yuka Mizuno
+https://video.moonfile.xyz/vod/data/master.m3u8?data=H1sqcS0zQi6NBD6Uftfd7rE1gAMbF7EJKSedlMax4_3QhHD69gpXrtclPyahhu0nukuU-dbbp-0FpvZ5Nqz5mYrqeoPXXxjKh2GXHpGkmTU
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/aldn-494.jpg",ALDN-494 Lebih Baik Begini, Keluarga Sendiri!! – Kaoru Natsuki
+https://video.moonfile.xyz/vod/data/master.m3u8?data=VacB5b4bWlwUqgOSGZ_k3kyeWGxcbODH1bCJL_auqnbpylkPOjfKtSFcpzyvHla3OM6L_f-ugolfjmdXizGScDfxitBYedX_NKJ4w0VclHw
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/juq-515.jpg",JUQ-515 NTR Penyiar Wanita yang Jatuh Cinta Dengan Direktornya di Onsen – Yuri Hirose
+https://video.moonfile.xyz/vod/data/master.m3u8?data=ovzP4BJSE-W1X9fLEecLfncnMZuCvM4bQc0nauZYdcX9dRXAWxULDc2rl307-sBKhncj3tcHZkF8VltopPi_zvS_UtJUuWUjG24uFyrOU5o
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/gvh-706.jpg",GVH-706 Hubungan Terlarang Ibu Dan Anak – Mayu Suzuki
+https://video.moonfile.xyz/vod/data/master.m3u8?data=kOez4yU1quZ4oyzd--7BW5RjOFtNQoeHOdK7hnvROxL_J5vl7WvjTtRxnbojf3N9WiHHMMJ0BYRdqgYv9IEGq1m5zM2jNDspf5QsrILtpqo
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/sone-822.jpg",SONE-822 Maaf Ya, Aku Beneran Khilaf! – Emika Shirakami
+https://video.moonfile.xyz/vod/data/master.m3u8?data=853N6hzZT2ujdbc7YZkKe48XduhAgeV5cSkptMGWScwaFTZpI5DK5qkCS9aazJIdaFb7m9RtXBOkhJlDv5imrX_ltejaT8Oez0L1-MYSnIc
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/rbd-549.jpg",RBD-549 Diperkosa Tukang Ledeng – Ai Uehara
+https://video.moonfile.xyz/vod/data/master.m3u8?data=qK7zyTcblMPizoe_h1xUnoJZhvnK-Ouu89gPi6bUkQYvnS9W_Ew7a_0fpQSAkYagElfsw14yL2fazZ-9vKlozIFerb8beLfrhVxMAN__d4c
+#EXTINF:-1 group-title="Mr_naga2" tvg-logo="https://thumbnail.vidstream.pw/image/waaa-490.jpg",WAAA-490 Selingkuh Dengan Manajer Toko – Akari Mitani
+https://video.moonfile.xyz/vod/data/master.m3u8?data=RpnLD_NO00xMRqnO-ql8UC8fhu4Ubxf7lWzL7zV7ZV3HD5bLluFyp5h-WuOIe1Ef4ICZm8LqOa5JN10dPR8yPdQgonmwqlf676ejIiFiR-w
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Ginebra Bellucci 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99741.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Jordy Love And Nadia White 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99740.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Aria Banks Pancake 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99739.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Indica Monroe 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99738.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Jessica Annelle Is 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99737.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Blondie Fesser And Sofia Lee 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99736.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Fae The Slutty Commuters 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99735.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Victoria June 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99734.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Amanda Nicole 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/99733.mp4
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 1
+https://u89ey1.cdnedge.live/file/avple-asserts/hls/636263a357da9326a9b1cdcb/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 2
+https://8bb881.cdnedge.live/file/avple-asserts/hls/636269f557da9326a9b1cdd7/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 3
+https://8bb881.cdnedge.live/file/avple-asserts/hls/6362694657da9326a9b1cdd5/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 4
+https://u89ey1.cdnedge.live/file/avple-asserts/hls/63638333b893d94d5831c8fb/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 5
+https://1xp601.cdnedge.live/file/avple-asserts/hls/63626ab857da9326a9b1cdd9/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 6
+https://w9n761.cdnedge.live/file/avple-asserts/hls/63625f7557da9326a9b1cdc8/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 7
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/636268d757da9326a9b1cdd4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 8
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/63626a3f57da9326a9b1cdd8/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 9
+https://je40u1.cdnedge.live/file/avple-asserts/hls/6362694f57da9326a9b1cdd6/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 10
+https://10j991.cdnedge.live/file/avple-asserts/hls/636267e657da9326a9b1cdd3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 11
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/636267a957da9326a9b1cdd2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 12
+https://10j991.cdnedge.live/file/avple-asserts/hls/6362673157da9326a9b1cdd1/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 13
+https://8bb881.cdnedge.live/file/avple-asserts/hls/636266ba57da9326a9b1cdd0/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 14
+https://zo3921.cdnedge.live/file/avple-asserts/hls/6362655057da9326a9b1cdcf/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 15
+https://1xp601.cdnedge.live/file/avple-asserts/hls/6362642557da9326a9b1cdcd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 16
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/636264da57da9326a9b1cdce/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 17
+https://1xp601.cdnedge.live/file/avple-asserts/hls/636263ad57da9326a9b1cdcc/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 18
+https://zo3921.cdnedge.live/file/avple-asserts/hls/636260a157da9326a9b1cdca/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 19
+https://je40u1.cdnedge.live/file/avple-asserts/hls/6362602a57da9326a9b1cdc9/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 20
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/63625e4a57da9326a9b1cdc6/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 21
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/63625ec157da9326a9b1cdc7/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 22
+https://zo3921.cdnedge.live/file/avple-asserts/hls/63625a8857da9326a9b1cdc5/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 23
+https://je40u1.cdnedge.live/file/avple-asserts/hls/63625a4f57da9326a9b1cdc4/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 24
+https://1xp601.cdnedge.live/file/avple-asserts/hls/636259d557da9326a9b1cdc3/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 25
+https://je40u1.cdnedge.live/file/avple-asserts/hls/6362592157da9326a9b1cdc2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 26
+https://1xp601.cdnedge.live/file/avple-asserts/hls/63622d06762789063c4c97fd/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 27
+https://zo3921.cdnedge.live/file/avple-asserts/hls/636223a4762789063c4c97fb/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 28
+https://je40u1.cdnedge.live/file/avple-asserts/hls/63617f93762789063c4c97fa/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 29
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/63616824762789063c4c97f8/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 30
+https://8bb881.cdnedge.live/file/avple-asserts/hls/63613766127eed54f5fdc63c/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 31
+https://8bb881.cdnedge.live/file/avple-asserts/hls/636136b2127eed54f5fdc63b/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 32
+https://zo3921.cdnedge.live/file/avple-asserts/hls/63612033127eed54f5fdc636/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 33
+https://w9n761.cdnedge.live/file/avple-asserts/hls/636120e6127eed54f5fdc637/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 34
+https://e2fa61.cdnedge.live/file/avple-asserts/hls/63611f7f127eed54f5fdc635/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 35
+https://u89ey1.cdnedge.live/file/avple-asserts/hls/63611eca127eed54f5fdc633/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 36
+https://je40u1.cdnedge.live/file/avple-asserts/hls/636126dddab5bd5b631fad1e/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 37
+https://10j991.cdnedge.live/file/avple-asserts/hls/63611eca127eed54f5fdc632/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 38
+https://10j991.cdnedge.live/file/avple-asserts/hls/63611d62127eed54f5fdc630/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 39
+https://1xp601.cdnedge.live/file/avple-asserts/hls/63611bfa127eed54f5fdc62f/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 40
+https://je40u1.cdnedge.live/file/avple-asserts/hls/635fe331625c274caa6b5c1e/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 41
+https://d862cp1.cdnedge.live/file/avple-asserts/hls/635fe331625c274caa6b5c12/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 42
+https://10j991.cdnedge.live/file/avple-asserts/hls/635fcba48eda8a6cdeb7e9da/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 43
+https://10j991.cdnedge.live/file/avple-asserts/hls/635fcba38eda8a6cdeb7e9d9/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",VID 44
+https://1xp601.cdnedge.live/file/avple-asserts/hls/635fc2438eda8a6cdeb7e9d7/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Layla Balan 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98801.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Bella Luz 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98800.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Hannah Ray Praire 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98799.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Dasha Elin 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98798.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Brianna Wolf 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98797.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Victoria Mur 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98796.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Hannah Ray 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98795.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Roxy Knight
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98794.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Jess Leon Loves 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98793.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Amelie Lou Lavender 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98792.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Layla Balan Dream 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98791.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Anna Lisa 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98790.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Dolly Haas 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98789.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Sophia Blum 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98788.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Estelle Fox 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98787.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Victoria Garin 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98786.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Jolie Webb Jeune Et 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/98785.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 19 Kaiia Eve And Sonia Harcourt You Snooze You Lose new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109025.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 05 Nicole Aria And Maria Kazi A Birthday To Remember new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109024.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 08 15 Jessica Ryan And Maddy May Massage A La Carte new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109023.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 08 01 Serene Siren Alex Coal And Slimthick Vic new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109022.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 07 18 Casey Calvert And Victoria Voxxx Satisfied Customer new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109021.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 07 04 Jenna Sativa And Izzy Lush She Knows What I Like new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109020.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 06 20 Spencer Bradley And Maddy May Inclined To Help new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109019.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 06 06 Casey Calvert And April Olsen Put It To Good Use new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109018.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 05 23 Kira Noir And Jewelz Blu Last Hurrah new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109017.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 05 09 Charlotte Sins And Lydia Black Honoring Her Legacy new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109016.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 04 25 Marica Hase And Alexis Tae Intimate Worship new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109015.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 04 11 Chanell Heart And Sabina Rouge Meditation Class new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109014.mp4
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",percy
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93865.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",julia
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93864.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",amy 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93863.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Jessy Sexy
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93862.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2", Unfassbar Geil
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93861.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Sonja Die Spermaprinzessin
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93860.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Boese Moesen 
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93859.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Nora Allzeit Bereit
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93858.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Teenage alyn
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93857.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Teenage han
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93856.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Teenage vis
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93855.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Teenage ros
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93854.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/e7/8f/5d/e78f5dd791c542b7222c1d75fdc72c0b.jpg" group-title="Mr_naga 2",Teenage yes
-http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/93853.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 17 Altera Pars Sexy In Stockings new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109626.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 16 Chanel Camryn Perfect Pink new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109625.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 16 Altera Pars I Want You new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109624.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 15 Sunny Shine Tiny Blonde new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109623.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 15 Casey Reed Reflection new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109622.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 14 Chanel Camryn Dime new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109621.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 14 Casey Reed My Wet Pussy new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109620.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 13 Sunny Shine Sweet Sunny new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109619.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 13 Sera Ryder The Cutest Brunette new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109618.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 13 Altera Pars Feels Good new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109617.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 09 Sunny Shine Nice Tits new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109616.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 07 Sunny Shine Forest Nymph new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109615.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 09 05 Samantha Uzcarrieta Tickle My Keys new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109614.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 08 31 Samantha Uzcarrieta Cum To Bed new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109613.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",NubileFilms 22 09 20 Andi Rose That Thing You Do new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109612.mp4
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 07 01 Sata Jones And Zoe Doll Coffee Break new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109410.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 06 16 Lulu Love Geishakyd And Lilly Bella Sensual Yoga Session new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109409.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 06 02 Bonnie Dolce And Zlata Shine Peachy Morning new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109408.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 05 19 Lulu Love Holly Molly And Irina Cage The Perfect Vibe new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109407.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 05 05 Zazie Skymm And Geishakyd The Real Boss new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109406.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 04 21 Lizi Vogue Holly Molly And Isabella De Laa new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109405.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 04 08 Angelica Heart And Tiffany Doll The Magic Touch new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109404.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 03 24 Alexa Flexy Bonnie Dolce And Geishakyd Till Next Time new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109403.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 03 10 Cherry Kiss And Sarah Cute Butts And Bubbles new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109402.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 02 24 Shalina Devine Zazie Skymm And Geishakyd Threeway Thrill new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109401.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 02 10 Kitana Lure And Alexa Flexy Before Sun Sex new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109400.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/17/a2/64/17a2645d78de053495f7a547d24e9b18.jpg" group-title="Mr_naga2",2 22 01 27 Cherry Kiss Angelika Grays And Victoria Bailey Out Of Control new
+http://fastopen.live:8080/movie/MLS003/qZj4zbPNDn/109399.mp4
 
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 1
-https://lsbbf1.com/20230920/JaDOrTiG/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 2
-https://lsbbf1.com/20230919/DacOtLAk/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 3
-https://lsbbf1.com/20230920/EgiMd4JC/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 4
-https://lsbbf1.com/20230920/CEQg2ANp/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 5
-https://jkunbf.com/20231103/glvIllEJ/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 6
-https://vip6.3sybf.com/20210827/rPnbGMQy/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 7
-https://v.ykv1.com/20230413/kiiB0zNb/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 8
-https://m1.m3u8111222333.com/G0911/mqgf/mqgf.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 9
-https://ukzyll.ukubf6.com/20220717/c8bVwJFs/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 10
-https://ukzyll.ukubf6.com/20220717/Ce1QR8Hq/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 11
-https://ukzyll.ukubf6.com/20220717/hM6WZpYP/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 12
-https://ukzyll.ukubf6.com/20220717/Ffwu5TER/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 14
-https://ukzyll.ukubf6.com/20220717/ohMk23Ld/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 15
-https://ukzyll.ukubf6.com/20220717/tS9Mi0DK/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 16
-https://ukzyll.ukubf6.com/20220717/qlIF3Mmm/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 17
-https://ukzyll.ukubf6.com/20220717/LrzzA2e2/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 18
-https://ukzyll.ukubf6.com/20220717/6zRPWw95/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 19
-https://ukzyll.ukubf6.com/20220717/2GCRPafn/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 20
-https://ukzyll.ukubf6.com/20220717/F3vwaKYw/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 21
-https://ukzyll.ukubf6.com/20220717/DNpIyQyI/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 22
-https://ukzyll.ukubf6.com/20220716/NFog58va/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 23
-https://ukzyll.ukubf6.com/20220716/aEQnS2OR/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 24
-https://ukzyll.ukubf6.com/20220705/MOqJZmuS/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 25
-https://ukzyll.ukubf6.com/20220705/xUQCMs5e/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 26
-https://ukzyll.ukubf6.com/20220705/UK0Iiznu/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 27
-https://ukzyll.ukubf6.com/20220705/x6ezyuMK/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 28
-https://ukzyll.ukubf6.com/20220705/2YtSeVHG/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 29
-https://ukzyll.ukubf6.com/20220701/X4rgzYEl/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 30
-https://ukzyll.ukubf6.com/20220701/kyISgn98/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 31
-https://ukzyll.ukubf6.com/20220701/bpM27S2E/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 32
-https://ukzyll.ukubf6.com/20220701/opDP4UMN/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 33
-https://ukzyll.ukubf6.com/20220701/YFLDEQBT/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 34
-https://ukzyll.ukubf6.com/20220701/q7CqWcoE/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 35
-https://ukzyll.ukubf6.com/20220701/6bXzdRUF/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 36
-https://ukzyll.ukubf6.com/20220701/BiPEogS3/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 37
-https://ukzyll.ukubf6.com/20220701/PrIhXOPl/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/03/08/c6/0308c63f95530d15057c6c15769de990.jpg" group-title="Mr_naga",CLASSICCINA 38
-https://ukzyll.ukubf6.com/20220706/nJPTNh54/index.m3u8
-
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="nnnnnn",IPX-469
-https://ezycdn.com/playlist-rvp192h2-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00529/ipx00529pl.jpg",IPX-529 
-https://ezycdn.com/playlist-2v8cnus4-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028 
-https://ezycdn.com/playlist-nb6k8jf7-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674pl.jpg",IPX-674 
-https://ezycdn.com/playlist-r9vv8i9p-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00485/ipx00485pl.jpg",IPX-485
-https://ezycdn.com/playlist-3032f4mr-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00438/ipx00438pl.jpg",IPX-438 
-https://ezycdn.com/playlist-jlmqihil-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00428/ipx00428pl.jpg",IPX-428
-https://ezycdn.com/playlist-49vdiba3-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00201/ipx00201pl.jpg",IPX-201 
-https://ezycdn.com/playlist-pd0fmvvh-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00292/ipx00292pl.jpg",IPX-292
-https://ezycdn.com/playlist-c6c19i96-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00353/ipx00353pl.jpg",IPX-353 
-https://ezycdn.com/playlist-gv7bffv3-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00321/ipx00321pl.jpg",IPX-321 
-https://ezycdn.com/playlist-bguulmvf-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00149/ipx00149pl.jpg",IPX-149 
-https://ezycdn.com/playlist-1f0o2l1r-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00061/ipx00061pl.jpg",IPX-061 
-https://ezycdn.com/playlist-ca6stta9-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00690/ipx00690pl.jpg",IPX-690
-https://ezycdn.com/playlist-fvq0h0o0-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00028/ipx00028pl.jpg",IPX-028 
-https://ezycdn.com/playlist-nb6k8jf7-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/pppd00248/pppd00248pl.jpg",PPPD-248 
-https://ezycdn.com/playlist-491fp2el-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://fourhoi.com/heyzo-0532/cover-n.jpg",HEYZO-0532 
-https://ezycdn.com/playlist-93g3bc6k-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/60xvsr00054/60xvsr00054pl.jpg",XVSR-054 
-https://ezycdn.com/playlist-qftjv6sc-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/60xvsr00054/60xvsr00054pl.jpg",XVSR-054 
-https://ezycdn.com/playlist-qftjv6sc-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/dvaj00165/dvaj00165pl.jpg",DVAJ-165
-https://ezycdn.com/playlist-rd7k47me-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/60xvsr00060/60xvsr00060pl.jpg",XVSR-060
-https://ezycdn.com/playlist-ta6nifqp-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/rbd00880/rbd00880pl.jpg",RBD-880 
-https://ezycdn.com/playlist-2520gpqv-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/juy00168/juy00168pl.jpg",JUY-168 
-https://ezycdn.com/playlist-tl8pe6m2-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/dasd00373/dasd00373pl.jpg",DASD-373 
-https://ezycdn.com/playlist-a2h2rm7-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/cawd00707/cawd00707pl.jpg",CAWD-707 
-https://ezycdn.com/playlist-4ij458ah-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/cawd00441/cawd00441pl.jpg",CAWD-441
-https://ezycdn.com/playlist-lfd4h645-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/cawd00403/cawd00403pl.jpg",CAWD-403 
-https://ezycdn.com/playlist-qt6h2hor-SD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss00871/1fsdss00871pl.jpg",FSDSS-871 
-https://ezycdn.com/playlist-es2i4573-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss00868/1fsdss00868pl.jpg",FSDSS-868 
-https://ezycdn.com/playlist-30l6r37c-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss00757/1fsdss00757pl.jpg",FSDSS-757 
-https://ezycdn.com/playlist-e4i8cm5t-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss733/1fsdss733pl.jpg",FSDSS-733 
-https://ezycdn.com/playlist-de1jbe8b-FHD.m3u8
-#EXTINF:-1 group-title="Mr_naga" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fsdss719/1fsdss719pl.jpg",FSDSS-719 
-https://ezycdn.com/playlist-pn3d1krp-FHD.m3u8
 
