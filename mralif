@@ -2788,6 +2788,11 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=gv7Pb-JPvLsyXwak-FIuw-U_VGCqJQYVBa4ne9Of4XZ_RAu_9p8Msjtx8trHZHIRQt_8CVj0SbgbttsCEMrEhFYw0cGMhDNiWNXv80S2gW0=
 https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_49_51_0798d42f-c4cc-4518-97e1-beaa6984225f/PROD_CMAF_CENC/index-dash.mpd
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="☆SPORT+☆", FIF5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=GVvzCJYj-kGWXq4nzZyWz1bMaRStU0FdiPVep9Fsq09pvkXVNe4dGwJA-fL2X9RgZSYA6-i6W_jLdo4NGwuFLXrk2myvAK28oRv_qARD0WE=
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 ================================================== UFC ==========================================================
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/3d/b1/b5/3db1b50873540976dd5eed136b3e7b7d.jpg" group-title="UFC_FEED"
