@@ -2206,7 +2206,11 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl2.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT+☆",AST FUTBOL 
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl3.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/be/37/f5/be37f5882b6ef4e90f7475674453d62e.jpg" group-title="☆SPORT+☆",AST+ 
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://shorter.me/DGGMW
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl4.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/7f/52/90/7f52902144bed500f550d9ff07421615.jpg" group-title="☆SPORT+☆",Prima 1
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/primasport1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/13/74/92/137492737917ae27fb2be48d63363f6d.jpg" group-title="☆SPORT+☆",Prima 2
