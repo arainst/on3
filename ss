@@ -3058,6 +3058,11 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Usnet.m3u8
 #https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 1a
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep5.m3u8
 
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 2
@@ -3316,83 +3321,68 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",1. MOVIE SATURDAY ADA JUGA DI GALERY PUSTAKA
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq56E0DrjReFs1jVKGg60hH9uRW0Cz3t5ugz9Bnc_94w&s=10" group-title="MOVIE SATURDAY", The wolf's call 
-https://cloud.hownetwork.xyz/xxx/ccc1790bb4df65562ac7254ef8771aff/2/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXSYftlGcRu0AUt72yIdyfRSbxiFKYRtKk9zVChz7xQ&s=10" group-title="MOVIE SATURDAY", Black sea 
-https://cloud.hownetwork.xyz/xxx/db1ad12c58ce62632f533131656e0ed2/20/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1pNZhATV007uD7hELfMYFBgdiWa6GrP7qt-wJNMyaQ&s=10" group-title="MOVIE SATURDAY", Kursk the last mission
-https://cloud.hownetwork.xyz/xxx/e4a3377f812a4fa9e454962e31b83bb6/5/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFyB0bA8LFoNOQd8myMG0AqUzMvGMg97vClwyp2Zw5A&s=10" group-title="MOVIE SATURDAY", Get out 
-https://cloud.hownetwork.xyz/xxx/ef1511e429ecc772cc0cd9b660cd717e/5/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEc0oPE2FZ7IU1wcnA8dY0js6dDJb33uvK_BRqPn6KA&s=10" group-title="MOVIE SATURDAY", Everything everywhere all at once 
-https://cloud.hownetwork.xyz/xxx/2f2c808868a325c3cd2e6a47ce9e947a/5/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71j1Q4lpkluYrnAh3uMJ7rgKMj4G1r3bKmhS2diw8ew&s=10" group-title="MOVIE SATURDAY", The guilty 
-https://cloud.hownetwork.xyz/xxx/b8f649530d1d2c83c0b8cc9145b0d2b9/13/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqdY6KGn3nKwVGgIKNLlKNJ168wW8mHqb16z53DjNAjA&s=10" group-title="MOVIE SATURDAY", Source code 
-https://cloud.hownetwork.xyz/xxx/afc5396446d5d02b4ed8429c02fa6709/23/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxpV3Hg3ZRuKQjTfHEM7WZDfMvIk1Opjf6DtEa0xaexQ&s=10" group-title="MOVIE SATURDAY", All quiet on the western front 
-https://cloud.hownetwork.xyz/xxx/8846cc0dc99ff28f7d92f43426533bcb/10/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZVTEX31LZQQ5pC2I64ZSaNM_BZVGSNYhoinqDMWmYg&s=10" group-title="MOVIE SATURDAY", Black hawk down 
-https://cloud.hownetwork.xyz/xxx/8ef8b867754003f2aec97cd67beb79b2/5/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDOaZJSR3ul13x83EY6s9apJL5bm6oae_mg5i02U2yQ&s=10" group-title="MOVIE SATURDAY", Fury 
-https://cloud.hownetwork.xyz/xxx/9029fcae9ac2a84ce758c028779a6ee4/5/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6OUjZYHjlHQo4914ajatQfsG54tMFhpuOkDXCEvWIQ&s=10" group-title="MOVIE SATURDAY", Greyhound
-https://cloud.hownetwork.xyz/xxx/57c11b4b12f2acd65f83ed64a624e947/4/480.m3u8
-http://abf.filmbluray.id/3n7ww14
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56iT5wWEePKuC3TFfJw7FkQuxig_gj5gpWafInOD0JQ&s=10" group-title="MOVIE SATURDAY", 1917
-https://cloud.hownetwork.xyz/xxx/2dbb5688907651befb5bed2e5ca5fe56/11/480.m3u8
-http://abf.filmbluray.id/gded1dg
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6HInhOQxD243hSghPAtq8cRWOsCuxIHtJcpqWlMoqbA&s=10" group-title="MOVIE SATURDAY",Alien 1 1979
-https://cloud.hownetwork.xyz/xxx/e7f9e109ee827860b82354acfaccebf3/1/480.m3u8
-http://abf.filmbluray.id/4lkyjbu
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiXJgxvoy2A8BpnqzxgTPtPcvnNxtmTGqmA9HkjUzsg&s=10" group-title="MOVIE SATURDAY",Alien 2 1986
-https://cloud.hownetwork.xyz/xxx/3fffdd6606339745b03032edfc81cdb9/4/480.m3u8
-http://abf.filmbluray.id/echo4nc
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TFfK0ZgOn5_c2wO9nyD2beUqEtBYyHlNYCoZei8tLA&s=10" group-title="MOVIE SATURDAY",Alien 3 1992 VLC PLAYER
-http://abf.filmbluray.id/37ykgx4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXZSR2uQ5w3FDNejElHAsiwvLIwQhhODGV0iRh1GscQ&s=10" group-title="MOVIE SATURDAY", Alien 4 1997
-https://cloud.hownetwork.xyz/xxx/d57a53a72722f16b91741076ce6eccc8/27/480.m3u8
-http://abf.filmbluray.id/re0wprm
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVqzHW7Mjossa-j179qJo9r-xzxyeILs_zLqXwhRb0w&s=10" group-title="MOVIE SATURDAY",Alien 5 Promotheus 2011
-https://cloud.hownetwork.xyz/xxx/a33201cd0bfd7cf3ee339af59bab6b83/1/480.m3u8
-http://abf.filmbluray.id/bi3wdv4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTv6-VEeGpeLM2Qq5VyIyTtzNKD-FbV-Y9GqlO_QWmjg&s=10" group-title="MOVIE SATURDAY",Alien 6 convenant 2017
-https://cloud.hownetwork.xyz/xxx/87bc161da8f2a4692be373f3b30ed44c/2/480.m3u8
-http://abf.filmbluray.id/e66j0yn
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",Alien 7 Romulus 2024
-https://cloud.hownetwork.xyz/xxx/096060a5890fcb77bdc5af4bee819122/31/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-QCPkjWHJ6XX0_fF6R2UC20oEnD8vU_WGzGDUE63vw&s=10" group-title="MOVIE SATURDAY", A Predator 1 1987
-https://cloud.hownetwork.xyz/xxx/d307d596a6df919b242c95ad96677a62/1/480.m3u8
-http://abf.filmbluray.id/9h4h5la
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu28-I_GCZLsMJxFeEezMzJDfU_ZukbWKvl_XmuB0Dug&s=10" group-title="MOVIE SATURDAY", A Predator 2 1990
-https://cloud.hownetwork.xyz/xxx/d3c1801cedd4e24a2add88401a317125/1/480.m3u8
-http://abf.filmbluray.id/bizr5p9
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs45GVq69LaLH9Ilzu1SFvJuXB7drKla7zu9JiBgCtHw&s=10" group-title="MOVIE SATURDAY",A Predators 3 2010
-https://cloud.hownetwork.xyz/xxx/9f9150f19f8b02989e8a536c6e7fa26b/8/480.m3u8
-http://abf.filmbluray.id/7gwaety
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MrDFbWWoowgViihXCx0F6tbbm2K7WP_XK_lTnTYwjw&s=10" group-title="MOVIE SATURDAY",A Predator 4 2017
-https://cloud.hownetwork.xyz/xxx/827d75c0f41284e953814c3d916e8789/11/480.m3u8
-http://abf.filmbluray.id/mjs7csd
-#EXTINF:-1 tvg-logo="https://myhotposters.com/cdn/shop/products/mL6266.jpg?v=1748532054" group-title="MOVIE SATURDAY",A Predator 5 Prey 2022
-https://cloud.hownetwork.xyz/xxx/e0b8051ecf35e35ed07857ef23b11672/13/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIlS0xQsG5ZgBBXEVQzDq5T4rRCdi2jbwSunQPudtGg&s=10" group-title="MOVIE SATURDAY",Alien vs Predator 1 2004
-https://cloud.hownetwork.xyz/xxx/2e950c2ed320ba1017eb6dd92ae09934/1/480.m3u8
-http://abf.filmbluray.id/4k4d33i
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJuYSj1AK3hwltVY6c7FLBvDaC-HimG9EB5uVtI07sA&s=10" group-title="MOVIE SATURDAY",Alien vs Predator 2 2008
-https://cloud.hownetwork.xyz/xxx/eae040c0481b67da65b7a91d0a0b0012/1/480.m3u8
-http://abf.filmbluray.id/rb9396k
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMYX351h4ssr_bpE3SrnjHM_zJjCE7xZkf5qCXUsJFQ&s=10" group-title="MOVIE SATURDAY",Dangerous Evidence
+https://f2o8.uyeshare.cc/uptobox/ixyf5em8uku6evewsnh5jdyzxvn09e55dtsmc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJt0QeEauf02-R_RjcTI1AZaIXXq7Lj_kNO6x1i7OBg&s=10" group-title="MOVIE SATURDAY",Art of War
+https://f2o8.uyeshare.cc/uptobox/kix4cg1icnaho6hv3q36d9jc4bpjjwx8q3ycb
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cdn.drakor.in/gambar/8pvUoryp.jpg" group-title="MOVIE SATURDAY",The Monster Is Coming 
+https://f2o8.uyeshare.cc/uptobox/yzxwbwhrds8ju99edu6dhwjs2aa5w6sc2o7qa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGd8RgwVafApwajSaiGMF7X3E1UbaVSjiMCVxq6gGtaQ&s=10" group-title="MOVIE SATURDAY",The Diamond Heist 
+https://f2o8.uyeshare.cc/uptobox/ovucjr803u1aljfzqa1rzq46ue1zsbfi6bi1yy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWnt6Dtl9WNwnzdY45IrermFiREDG88jPS6ds-1nahQ&s=10" group-title="MOVIE SATURDAY",Star Abyss
+https://f2o8.uyeshare.cc/uptobox/sl9uwydt8g64rt7m9zx3nywpac1y1cft9f26
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cdn.drakor.in/gambar/Xe9KQlx.jpg?resize=500,750" group-title="MOVIE SATURDAY",The Great Ice Siege
+https://f2o8.uyeshare.cc/uptobox/inqgf92oie7o1up683eu93eco8bxi12oeqyo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHidqzI05mpLO7Xb1cXUNo37zk0uRtli1BdrDyycVpQ&s=10" group-title="MOVIE SATURDAY",The X-Treme Riders
+https://f2o8.uyeshare.cc/uptobox/zxtn521ihqb5injy54vkunondxmipuge5jl7u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRykr1wf4ySMihctZR-49dg1ULHHr8ZXnzjhcGiJzrbA&s=10" group-title="MOVIE SATURDAY",Kitty The Killer
+https://f2o8.uyeshare.cc/uptobox/ttdqyas9the1l8ovfbs7018ibro8bipydkh32
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8gpcuaX4yub6pASqUTp9QOHcXtxdJ22FY0Wx1IbjpZA&s=10" group-title="MOVIE SATURDAY",Home for Rent 
+https://f2o8.uyeshare.cc/uptobox/6t903pjwqwricmnsve6cknnag5zilsy36pyz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRPwPbNRCMegTFr9D8bg9R0gDJjepzko3p0Bff-zKiw&s=10" group-title="MOVIE SATURDAY",Hunger 
+https://f2o8.uyeshare.cc/uptobox/hfh2v6wsl2adq46p6pz3s2man4rc39j16zxbbp
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cdn.drakor.in/gambar/LA5RSVBi.jpg" group-title="MOVIE SATURDAY",Hoon Payon 
+https://f2o8.uyeshare.cc/uptobox/jid7rje1483iezn9bidces4e8l73rlockvmte
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1ArLEr1DNpMgurwwtdvZMAYrcu2.jpg" group-title="MOVIE SATURDAY",Extractions 2
+https://www.googleapis.com/drive/v3/files/1g2yJUVReEI4RR-WAvM4vuQPIEkEn6MsU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0UVuPV2is16vGoFwT9_WO32s2cF2e4HOQZ_J5hmW3w&s" group-title="MOVIE SATURDAY",Black Adam 
+https://h9yoya.am.files.1drv.com/y4mFwsvJUy9pjV6BFZzt_NQH_IkxfAcO9_7XDMGfsf-FbYdyx5zyea5mYLxhx8GtAOHdckhAjP4ThTKB0ppXpwzve56IxApPwqTyb1dSu6q_UB4AcLCKGMGhgGq-19Pq4QcXxNXv3F-zxGwChGry8KDskyL-NLHL88kN9FEgwOBhAr2MNLlDlRAKyKKxtrPSnBKf9PNBTziGX7ItoJX4W0Cig
+#EXTINF:-1   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vlyzhTZsrNKOichJ7DfHmYzV26WzbmBhtaaiXM5YtQ&s=10" group-title="MOVIE SATURDAY",Morbius 
+https://h9yhgq.am.files.1drv.com/y4mrs7uGKhpXTaP178vnVDZXWj9bY8cHAkIQqambQ62-wp0uSFQpYzJFn0VSGvsgVa4zH_pdfLX51XLGsG7PuryW1hMvqcQskOrv_vpFU-cHOvYpgefzec6x0_oin6QZPROA_Fx1pgQoD6wUOs1D1dUD50UHe0vB0OZa_rXOOL1Vq88XwPq-k-BKBo8vK86YElLnojyC4ropOCtwxmyOZ3IRA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoErQeTNvsHtT9e5tsQ6Q5Eby6uTCjIJ2nUA&usqp=CAU" group-title="MOVIE SATURDAY", Alive
+https://lv2rbg.ph.files.1drv.com/y4mcwBj9BjHziVvHDvBa6Zq5cVYA6yNNjzuh51muXdUBJljR0sspQ2MTbu8xaYv2Lun-zDzS0AA_7bEkbT1Ki8K3YvDn6vruXvE-qTGjnwSYRoB7HrtDfd28_adh6_BwmINt_Mu0wbk5D-wljhT2NNAuWjDLB-P-GoDgflM2a9gB2L-b4qaBwyqgw63znvzXE-jln9Rx1xanysO2j8NvoB8fg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0-9RDu3TIY6q8KRm9e-_hKDWflfnWyM8hg&usqp=CAU" group-title="MOVIE SATURDAY", Decibel
+https://ju7a0w.sn.files.1drv.com/y4mfz5K2c7KTA_XxjZSfUce3dKlGh-u4M-QwZMK0mcRijKHAUhT_WKAdcmCK94Nq5dM6JCjuJEIqw9RnOcDoYtwosSNaM_LY5CqReU5vrHsuCxWfPGlRCwUzDafEB0M-d1o4wf3RAyS3wU6iaxpYBoJ5-VPBqJQJ-bHrOOVe57vgUQ8UnnvP_sPiDLllQ3LLSMWwMpr38Xydk-QlUfNeuA-_g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCZmuOLv5N2QffXf5cIAJ4DJLD4th7C9dC65wXOpWGg&s=10" group-title="MOVIE SATURDAY", Christmast Delivery
+https://ekbyga.sn.files.1drv.com/y4m4NiZgg0UgXupct8gzrKLl3RV5X0juk3b2Ia50NTiNrtVZUPJ7HYDDl9QGIpSifiS8AFToA9cr-NFCuRe8GAwa2RoK3OjvWcfDbA9JL_qKD3875U7s0XvOxNn6K-tDhxvxfywtxy0YzJbp9gVm_IJZoD4zvmN9rGnKBpGc7sGeukkvfipM-S4nQFvYEABuum1MORLbMZhopRvBZJbWAsLLQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj_DUicCw0ZO485W12MWIrGzaoi1Dji9jFsktRxrU8Eg&s=10" group-title="MOVIE SATURDAY",Christmas Tree Demonic 
+https://ekyoag.sn.files.1drv.com/y4mC03ZJoswhF9pZw9pwL2XdZ4wQ2Nv7dtfIvHqVZ9HonF8hXgntJ9YG2JtUnnmjJhw380NWMFPogjlAAkV8ociR_HElEd0oYfr7AzMmZiOOJn47OWpaH-rxhZ1ixASZix314ho_sr7Pj4WDrYy4x8ZDsCfmgq108pNwUboZicRB7qE0dR48gIZ4nJQZWJpge_IsPtQoVrFDVTSlFz1ZzJmbg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aIFrfDjdsAa5wJxR_LKnwW-zdnyjPhNMo5vyLw0UwA&s=10" group-title="MOVIE SATURDAY", Okja 
+https://4prpea.by.files.1drv.com/y4mRJoyOVIWsmCya9Ja3p6fp_k3SioM1ZlaHnMm2lIjPbzqWsWdhZj4QwjwZ9M5jXEJHd558WE169RUkL_FiBRDJtaqUzCtygyKBdVbcH02x-4wAiNZEeMUt2Jc7gVV4-nu0PD3ezZwCnjgH6n5zd72lTzygR1_vwTnOOuKpexf-U7Wc9aNTnoLaP9_Jgq5Di9Fzk3OCBFeOD3rwNTEbmRVEw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNjbebV9Z1RJihjUCntBTem39Nq0eAt-raw&usqp=CAU" group-title="MOVIE SATURDAY", Operation M 
+https://v9htig.bn.files.1drv.com/y4mAb3gWPOBbTj9-hScyzY_9wEyDty4Co_pz5UbQNw8TXTmXaKe6ZRRf0mE7Iqi1_FzhDHlFPhtKprZQlBVOGQ_G51sLojQLDagKHa5nZdymE-Vtzusx8Qp141PTAWIjf1y6faSP2DpEH4Lz703pPAEBz4ckKEbD_sr-teLH1xSJCiLBqwvbmlFaGnEIWjVAi1NuOk6PFUELHU0BKomuuEmsg
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="MOVIE SATURDAY", The Mummy (1999)
+https://2310cw.by.files.1drv.com/y4mXMfQn3Dg-avJvq9FW-guEAlFtH7mZzMwbjkpNyaZb9D3-0tRcDiUgCpMnVkAvpY6Caf-diVu8RiORClDHThWcjjPk4V0Y4ioUdEqu3A1qY_vthRbJw2Cy6T-EtlmymbQiZqC230BHe5cahgStu5cX82kNRWiygt7EVNtr1mydXjWPu0_oy_KVunpad4_PtzLvZNdl5HaFiRFTQlkePzZmA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Mummy_Returns_poster.jpg" group-title="MOVIE SATURDAY", The Mummy Return 2006
+https://e2nppq.by.files.1drv.com/y4mslY73F_TV6pxcA57EA3lQG-z8SW5P910Y09ZiCQTub5DTFrjHlLZa6qLAxYPCbhq0bpnbWQueD5eUvwiJ6przTyQmt68m8k-4RyJyAarYU5DajUDACs8O__vHAAQX8A2Oqt1eY8A29q-E4vDk_aXot81LJ0tJzyjvnJZj4NlcHeerlIvi6R0GNLErv1voxPFxVM2R-yM_9QR59OZKW0FoQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnuWylrqt65zHpO18ey51vzUFYxn_8LY-ABQExFhlttQ&s=10" group-title="MOVIE SATURDAY", The Mummy  Dragon Emperor (2008)
+https://e2npvw.by.files.1drv.com/y4m028tTPKwePVeXX7elqEzR6gL-zP9dElTIszqYdUjWrIs6x6Di2G6eNse90cBKYuQjprwSNapjfA7PaWM_ziAvOjnvImXeX1KzrQgNrCoiTca3yy-Oe3PwpbVgtQiKcMUbRXayA-XGgoPJ8WaTdSQF0XdvS4K5xL1R7N1R-xyLClBiiKLo3BfBjMjyZQ9nxzxCSHXFlQyV_pOCZ4i4J4oBA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1R_16HethLZm8Y3rjI5R8XlqqE9QU1GBTGRHv5krVA&s=10" group-title="MOVIE SATURDAY",9 Bullets
+https://www.googleapis.com/drive/v3/files/1oO3baiCrTJ_5AR8hzvovyBzSB2Fszmg0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaGyL01pKPSe3ui9qQvfEEnaEm9bGZ9AWKUSGrQPt09Q&s=10" group-title="MOVIE SATURDAY",After Yang
+https://www.googleapis.com/drive/v3/files/1HkitdpVx6EScynh-YrXCDpXWqWzRlaCH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNBYl1eJBH-cpp4N_4GcjPrfGV8vnOixkT0jsm5zDc5g&s=10" group-title="MOVIE SATURDAY",Against the Ice
+https://www.googleapis.com/drive/v3/files/128tmMDnyEkRa6q0uW5sJNOq_zru0we4v?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_P0gbyYmGMtlf15Fu3cAVwlToQABZKvPwHeyFSMlRiw&s=10" group-title="MOVIE SATURDAY",Agent Game
+https://www.googleapis.com/drive/v3/files/1vJgHarnOUXLK3UrdU0_XpneIdacrNvA2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6qrZAnkO4F7UC9SaFGLv_be458tswJ5QYoMKaUtFvg&s=10" group-title="MOVIE SATURDAY",All the Old Knives
+https://www.googleapis.com/drive/v3/files/1JZCXnrTM39ZlZ_m7y-i18hc1jdKF2KBB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccixawV7majgSNvg40CcSHuIapYKN-MCCogvUpj21sbgkJzUecZFOPaM&s=10" group-title="MOVIE SATURDAY",Jalan Pulang (2025) not vlc
 https://playerx.player4me.online/hls/s59q4fE-iBqiQv_JnBgyaw/vz1/ghsd6ax6y/iuddja/tt/index-f1-v1-a1.m3u8?v=1758651105
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE SATURDAY",The Rats A Witcher Tale (2025) not vlc
 https://playerx.player4me.online/hls/kWpdhxg7FE4xaOzvUQlHaQ/ho/5z16vhbz/nvwf3g/tt/index-f1-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqnCLLB3u3Saos-W8ISvMREefISs1qS5vX2tx_SXReuQ&s=10" group-title="MOVIE SATURDAY", The wall, die wand 
-https://cloud.hownetwork.xyz/xxx/d183f2efa2643674e77884ebf5cabaf1/11/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrBFW7fP_2fqPfVSstthdXnMnLCTWkMsscR768dQNkQ&s=10" group-title="MOVIE SATURDAY", Chaos walking
-https://cloud.hownetwork.xyz/xxx/IRAoITZUACAuOh4iJB1kaHBJZBkAOzMNb2VPfBxoCSonDTkiKhgT/35/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsozPvIERYRIgjMt7E7HDUHJL7Q_LkQCtdeqiOOKKshg&s=10" group-title="MOVIE SATURDAY", Kifn 
-https://cloud.hownetwork.xyz/xxx/KREvIGhLR3N2fCAJAXQaBxonfih9SEIkdjI/27/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Omb8HY0jE2fVGb9XtpMA4I7Gc5yfMQH6PIrIo8BPg&s=10" group-title="MOVIE SATURDAY", Gayong 2025 not vlc
 https://sf21.vidplayer.live/hls/tNK3rnDgnPv6hvkLGe_RIw/kdv/5z16vhbz/8zymt9/tt/index-f2-v1-a1.m3u8?v=1758651105
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrmKUnka8RXhtlQNl87FEY9u2P2NvIOz2YllP-7dzgg&s=10" group-title="MOVIE SATURDAY", Gun manley not vlc
@@ -3403,30 +3393,7 @@ https://sf21.vidplayer.live/hls/xKjtVh6HcForhkKOYb3TMQ/djx/5z16vhbz/o35mxm/tt/in
 https://sf21.vidplayer.live/hls/Uo9G_L7KlgA_YwcTdiC3fQ/x68/krn5uouk/dt5lql/tt/index-f2-v1-a1.m3u8?v=1758651105
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmH_JTpP9L-23ToBmHN1HD_rZ5SrsWVLkvy3izg5CzLw&s=10" group-title="MOVIE SATURDAY", London calling 2025 not vlc
 https://sf21.vidplayer.live/hls/NMy79JUpBo3sF_FZxnJdIw/tab/6sprig63/6kkj8l/tt/index-f2-v1-a1.m3u8?v=1758651105
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKT9wCnKAtMOCI91RkNwODh9ArEbQSVRB6T1KfGlgAA&s=10" group-title="MOVIE SATURDAY", Dead to rights 2025
-https://cloud.hownetwork.xyz/xxx/Jh0oKmgLHiYqJQRhcQBkbW8vDAwBNSgZHTJHeyAEYD12/27/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hpN-_ND6wk7ydshtD1-oSjigRie04oZlnmrbb0lobw&s=10" group-title="MOVIE SATURDAY", The pertect neighbor 2025
-https://cloud.hownetwork.xyz/xxx/Mh07KCAaA2wsNB4rK1I5Km9KeXxwVCAEABU7ExtvMmx3GSh5JkA/26/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5fcD-T54Zk2-ovZx47PV7hr2lAoAMowfP4L-d45DwA&s=10" group-title="MOVIE SATURDAY", Rewrite 2025
-https://cloud.hownetwork.xyz/xxx/MB0-PCwNEmxwYUV5bmcTGgY0FhYaTRMjdzNOf3Y/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx8l93uvQHshIAmYPGBstSoaw8rdrrcoE3FkEt-aReww&s=10" group-title="MOVIE SATURDAY", At a Confessional 2025
-https://cloud.hownetwork.xyz/xxx/NhA8PWgKBy4pNFonKkM-MSAdZDwqERYvbzIYIiVVJSsrFycvKVRFcXBkWhsGchIUHSAWeyEaRXd3M08/26/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8TGvC1K9YMcfFEprsnQB2bs7Yi5gi3Js1QrbaSRshg&s=10" group-title="MOVIE SATURDAY", Your host 2025
-https://cloud.hownetwork.xyz/xxx/Oxc8PGgRGDI2fEV8cQV7Dwc6DQIaISh2cGMWfSVUYw/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUDfEfDyh4FuSlxJDstoQD-GZYwTyEk1p_HYqWDmbPw&s" group-title="MOVIE SATURDAY", Everybody Loves Me When iam dead
-https://cloud.hownetwork.xyz/xxx/Jw4sPDwbGCU7fBsjNVUldS8dZDktHBlsKzxaKCZRMnVwSHt7aC4yAwYdKBQcVWBrcxxwf3A/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGh4vNZgVvK4-A4pn0VYiDJLp8Zv-w1wt9zz3d1cdhQ&s=10" group-title="MOVIE SATURDAY", Big bold beutiful journey 2025
-https://cloud.hownetwork.xyz/xxx/IBEuYycWGyVvMxItNkQ_PjcUZCQqDAUvJyhafnMCY3UVPQsKCSYvHiFgFXQgU25v/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWQ-EIf831X9lFEIvNJnSefNb9pJhjQ315N7OtzX2sg&s=10" group-title="MOVIE SATURDAY", Weapons 2025
-https://cloud.hownetwork.xyz/xxx/NR0oPioXBGxwYUV5bnI6LRAZMBEdJk90ITMUL3UC/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0yN-gY6V5rGBO8q_8CM6Zjp4nyzhDlpBW08YnoVPhHw&s=10" group-title="MOVIE SATURDAY", The lost bus 2025
-https://cloud.hownetwork.xyz/xxx/Lhc6OmgbAjJvY0d-dh0BHQA8BREdJhZ3ezBGencE/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_lDlKZiU5PCjVrMsWmeCwV5H7aC6qLq8V_i9ZOYXv3Q&s=10" group-title="MOVIE SATURDAY", Between earth and water 2025
-https://cloud.hownetwork.xyz/xxx/IB09OSAcGWwnMAU4Kx0hOTYdO2N3SUVybwYyDgd8CQAdTSgocUtBJSA/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx6RDAGl5M4dH_fnS7mYxJC_0rdNFNsoY1c6wVVB6csA&s=10" group-title="MOVIE SATURDAY", The fantastic four first step 2025
-https://cloud.hownetwork.xyz/xxx/NhAsYyMYGTUjIgMlIB0wNzcKZCgsCwQ1byIDKTNDe2pySnxjEjw1BQ4OLxMmAG87cUp5LA/34/480.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsk46skyVOKk5fpH6SGfLtzVg7nLxuoxLtmMTmzX8BtQ&s=10" group-title="MOVIE SATURDAY", Burner 2025
-https://cloud.hownetwork.xyz/xxx/IA07ICALWnNyY0JhFHUUHA4nEREnGEAlcDdGeg/34/480.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Hkx1laGVJqPUZO-eKwzSBU7h46IjyHMhr_gyEXZEYQ&s=10" group-title="MOVIE SATURDAY",Silent Zone
 http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401693929.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIri0dJLRBMmxDxItNHrgrIIL9ul0wT08ZD717MF0iw&s=10" group-title="MOVIE SATURDAY",sebelum 7 hari
@@ -3449,6 +3416,73 @@ http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788606.mp4
 http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788439.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFmZYwafgSokf7bJk6MdEFtA5gFcKyziP5d_udTFcaA&s=10" group-title="MOVIE SATURDAY",TRON. Ares 2025
 http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788437.mp4
+
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9z0jjUEIA9vgKMQkOLY-3DkQnJPe72M1UZEWmhzQaqQ&s=10", Roofman 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788435.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJomrw0rCY-avmvhnkN9kMCdJAZclz1_4jaG2KuSGZw&s", One Battle After Another 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788434.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2F9ctEY0qLytFsUBdHnT2H-FUrGYjvKfhet0jHkEJ6A&s=10",Nieprzyjaciel 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788432.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpT7YmoASmsOqg8UxDfODZ5Xs8PEg1T2FvCKFjt1Pdg&s=10",Killing Faith 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788429.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wTNFIXEu7J29ivwI7rc8kNY5s2gHl9Gtip6TWQgHjQ&s",Highest 2 Lowest 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788428.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZS6rabelmUyScn3-4q2W_GRYlagdu7Yxg-bimryIGg&s=10", Caramelo 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788427.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GXritQCA407jWqMx3yAlCUuLzh9bv0EnLoG4HJzDTQ&s=10",All the Devils Are Here 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788426.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrW0KsvA4w9Jmaai5K1mBKHPBp6xZRUt8VLKPS7CdJXw&s=10",Thy Will Be Done 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788417.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzFBoLs3IVs-KKWOZ0rT8y0e2aH_RxYi_EVLCIdZ7eeQ&s=10",Everybody Loves Me When I'm Dead 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401788414.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7NNXMJ4v5tOiD_baBXijGQQrXXI5ihw098VKRjhkBw&s=10",Bad Man 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787743.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBRCMZhlAIYcFWW4rNnjv09vaMXxiQxCukNsLLjeQnug&s=10",The Things You Kill 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787740.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQVGl0-oYFNUrqeyxlNGAjcFhe5mNmeXiqCjFYYJTog&s=10",Good News 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787735.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLrrRQrPwTMeLVktbGG7WRlfTTfiIQjJ2BcZXlyim1w&s=10",A House of Dynamite 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787733.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDfBh_1AtdK6ViTvJbdgaIhThv4d2veWGegT6tM7J0Mw&s=10",Holy Ghost 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787500.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1fEbelJPiEoWXViRPdmJjKH3LzL1LBkHstKB4Z01ug&s=10", The Darkness Of The Soul 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787499.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2QWQzjrm4VtHPX1wr04RyqYjcQG6TMSy9MEGOkYZ2w&s=10",Stalkers 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787497.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92u9ngoJa7kZzChvVR_C4aGlicsYST4C2ELIf2q7uGw&s",The Queen of Witchcraft
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401787496.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCqSX9dPtIDDIgzm6ZjEHzv849t5TbvuyhQM617hvsQ&s=10",The Fetus 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784602.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpNhJV-dFl2GagNs8xqzQgW9-UVEKUQNKQa5397XdzA&s=10",The Drowned
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784601.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAR1rW5d90pRGaE2cj10mnN5ugVX4IDoOn3lyyuXJ3Yg&s=10",Painted Bone Woman
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784600.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXEQoIZrjhNsOeJByoLZVi5AyxeppKSMaG4da4aJ0pw&s=10",Mieruko-chan anime 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784599.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqw_teXl4mdKRirzTd3Rvnnh_SC47L-aHnRvddxbwZw&s=10",Vicious 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784597.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoCGN8By_BAU95DsUSXjJI476uOGzrb4K5yIUahtgYXQ&s=10",Unholy Song 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784595.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CDyluLlpHFhSeLrPSgO8LopviMLpwo4hSHfhR_mxFQ&s=10",The Strangers: Chapter 2
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784593.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbTcGnDEIpbYXeHUBfvKAriAX6KJwyZSDfdWE5Yvvnmw&s=10",Stigmatized Properties: Possession 2025
+http://exm3u.extraott.com:80/movie/54RL5KJE/QVVXHK64/401784589.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQybPHomyMMuHgxFeVQbOWcY1FmMB5pz61iOyfSOzq9g&s=10",The Killer With No Name
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563377.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzKtmUsK_rwxEgzV7sYRvEvrw13Tme1Y9oMHDE2ozjg&s=10",The Gardener 2025
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563376.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbxs2OXKM497rCaBanlZAmcMb1MkJl-vsHMFsOnCpLg&s=10",Teman Kondangan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563373.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDofUdtCPXEyQBq-29ash9zzT6AjsvBl92HtDuGmuHQ&s=10",Stream
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563370.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC80h_XFuNGYDhEFIPpjyMJ-rnRineXIaPrBqGCivGA&s=10",Spaceman
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563368.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifm9qjucigSZS3IDBpjWa7Cr_j80Pi-XlCCaIhw1a5w&s=10",Pharaoh's War
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563364.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDH1PVMlnE60BfB2hQQDGDIu45dARFLFJ3z9ZKaFFQg&s=10",Battle of the Bulge: Winter War
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563360.mp4
+#EXTINF:-1 group-title="MOVIE SATURDAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NZy3f5bT9anMIpMM3G1Ym12lYOP7kfZ0_6PHjUKh7w&s=10",Uranus 2324
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401553663.mp4
 
 ===================================== INFORMASI ===================================
 
