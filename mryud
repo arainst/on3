@@ -973,24 +973,22 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/HLS/Live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e2/49/d4/e249d4ba38afdfa8deb3132bf18352dd.jpg" group-title="》NAT_&_KNOW", History Channel
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e2/49/d4/e249d4ba38afdfa8deb3132bf18352dd.jpg" group-title="》NAT_&_KNOW", History Channel
 #https://raw.githubusercontent.com/Cutsiffa/on/main/History.m3u8
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/d6/57/b2d657f8107e564a7bee65a22d6c9161.jpg" group-title="》NAT_&_KNOW", Crime Investigation
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="》NAT_&_KNOW", Love Nature
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest_w2098937634_qRFZS.mpd?encp=&uid=&expp=
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/d6/57/b2d657f8107e564a7bee65a22d6c9161.jpg" group-title="》NAT_&_KNOW", Crime Investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
+
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="》NAT_&_KNOW", Love Nature
 #https://raw.githubusercontent.com/Cutsiffa/on/main/Lovenature.m3u8
 
-#EXTINF:0 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/14/8f/bc/148fbcaf619d2496652c5f18785f9851.jpg",Curiosity Channel 
-https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd 
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/a2/a0/22/a2a022fc58281f04ded465fde4919fc0.jpg", Animal Planet
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
+##EXTINF:0 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/14/8f/bc/148fbcaf619d2496652c5f18785f9851.jpg",Curiosity Channel 
+##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/a2/a0/22/a2a022fc58281f04ded465fde4919fc0.jpg", Animal Planet
 #https://raw.githubusercontent.com/Cutsiffa/on/main/Animplanet.m3u8
-
 ##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-id="nasatv.us" tvg-logo="https://i.pinimg.com/236x/1b/f2/bc/1bf2bcdd8ff93c8e184979be642c5c43.jpg",NASA TV MEDIA
 #https://raw.githubusercontent.com/Cutsiffa/on/main/Nasa.m3u8
 
@@ -999,10 +997,7 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3b/72/82/3b7282aecb9f260f2c5f3f3479f9bfa6.jpg" group-title="》NAT_&_KNOW",Love Nature us
 https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/e3/6a/81e36a45b099bdc4bbf906ebb1bfcc26.jpg" group-title="》NAT_&_KNOW",Discovery Asia
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1465869984_qRFZS.mpd?encp=&uid=&expp=
+##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/e3/6a/81e36a45b099bdc4bbf906ebb1bfcc26.jpg" group-title="》NAT_&_KNOW",Discovery Asia
 
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="》NAT_&_KNOW", Real Wild
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
@@ -1017,16 +1012,25 @@ http://khano.nng.cloudns.us/live/m3u8/int/892fc80890b4b65.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/4b/ad/6f/4bad6f6779fe8ad241172d79c00694a2.jpg",Techstorm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
+##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/4b/ad/6f/4bad6f6779fe8ad241172d79c00694a2.jpg",Techstorm
 
-##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/eb/52/8d/eb528d9bc3786cebe3149d68852320e6.jpg",Global Trekker
+#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/eb/52/8d/eb528d9bc3786cebe3149d68852320e6.jpg",Global Trekker
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.mpd
+
 ##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/236x/ab/a7/ee/aba7ee423f00644960980aeaacee7940.jpg",Dragon tv
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/5d/ee/eb5dee1d958f0b834ed2cd55614169c1.jpg" group-title="》NAT_&_KNOW",Hgtv
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/9b/10/f5/9b10f5533c1bf9bb2c8db561a632ffbe.jpg" group-title="》NAT_&_KNOW",Discovery Channel
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/9b/10/f5/9b10f5533c1bf9bb2c8db561a632ffbe.jpg" group-title="》NAT_&_KNOW",Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/99/7a/d4/997ad472eae9af02a0413c781fe082c9.jpg" group-title="》NAT_&_KNOW",Dmax tv
 
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg", Rt Aura
@@ -1048,10 +1052,20 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8
 https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Adventure gb
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Cgtn Doc
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Go Travel
-https://go2thls.wns.live/hls/stream.m3u8
+
+##EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Cgtn Doc
+
+#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",FAST N FUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Travel Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Rt Doc
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Safari tv
@@ -1064,13 +1078,10 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Wild Earth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Everyday Heroes
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/everyday-heroes/master.m3u8
+
 #EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Travel xp
 https://mediaworldwidelimited-travelxp-6-br.tcl.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="》NAT_&_KNOW" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Freedom tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/tracks-v1a1/mono.m3u8
 
 =============================================== LIFESTYLE ==========================================
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/fb/d6/1e/fbd61eb1e2a3a4a386794ced7b323b53.jpg" group-title="》FAS_&_LIFE"
@@ -1079,6 +1090,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.pinimg.com/236x/ea/04/9d/ea049dcae990cdd72fe81e2703ed79be.jpg" group-title="》FAS_&_LIFE",GLOBAL FTV (FHD)
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8 
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.X467IyJ_9d5lmJwEhfMQCgAAAA?pid=Api&P=0&h=220" group-title=""》FAS_&_LIFE",Design Home
+https://jmp2.uk/rok-5a1dec25daac971f191b10e808ec0c5d.m3u8
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.X467IyJ_9d5lmJwEhfMQCgAAAA?pid=Api&P=0&h=220" group-title=""》FAS_&_LIFE",Design Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00441-thedesignnetwor-thedesignnetwork-tablo/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://tse2.mm.bing.net/th/id/OIP.X467IyJ_9d5lmJwEhfMQCgAAAA?pid=Api&P=0&h=220" group-title=""》FAS_&_LIFE",Design Homeful
+https://jmp2.uk/rok-9c7a717f25a15b9997c6e3fd5f43a1a6.m3u8
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/ea/db/81eadb64a96acc5e46766e653cbf71b3.jpg" group-title="》FAS_&_LIFE", FASHION MS TV
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cc/13/f5/cc13f5221a65f74a8638eea5e2dcd804.jpg" group-title="》FAS_&_LIFE",FASH ONE
@@ -2604,9 +2621,10 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Oli8.m3u8
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/3d/b1/b5/3db1b50873540976dd5eed136b3e7b7d.jpg" group-title="UFC_FEED"
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2631,22 +2649,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=drm
-https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=20216&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a0/9b/01/a09b01c9bd284ce4666599df848679c4.jpg" group-title="UFC_FEED", CH 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/UF/UF2.m3u8
 
 ============================================ FORMULA1 ============================================
 
@@ -2675,12 +2684,6 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/F1.m3u8
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/5e/f0/a3/5ef0a379bdb3516eedb153bb2ebde0e8.jpg" group-title="MOTOGP FEED"
 
 #EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -2688,12 +2691,12 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 3
+#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
 
-#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 4
+#EXTINF:-1 group-title="MOTOGP FEED" tvg-id="" tvg-logo="https://i.pinimg.com/236x/8d/0c/a0/8d0ca0d8cb4240dfae2b0655f0bf81d5.jpg", CH 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3005,20 +3008,14 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng2.m3u8
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="☆LIGA INGGRIS☆"
 
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",1HIGHLIGHT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",CH 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 2
 #EXTVLCOPT:http-referrer=https://www.selcuksportshd1825.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -3064,6 +3061,12 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", CH 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg",CH 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/USAHD/default.mpd
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 1
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep4.m3u8
 #EXTINF:-1 group-title="☆LIGA INGGRIS☆" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", LIVE ONLY 2
@@ -3251,29 +3254,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg" group-title="🏆LIGA CHAMPION", CH 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg" group-title="🏆LIGA CHAMPION", CH 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg" group-title="🏆LIGA CHAMPION", CH 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/48/ae/d5/48aed5cd1e09325cc37039b14ec05b65.jpg" group-title="🏆LIGA CHAMPION", CH 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/LC/Lcham4.m3u8
 
 ======================================= BIOSKOP ==============================================
@@ -3998,4 +3984,234 @@ https://cdn-seachange-prod-01.vos360.video/Content/DASH/Live/channel(b3278dd9-ff
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c4/b7/48/c4b74881b961cb2f2d26bc1dfe355e3a.jpg" group-title="INFORMASI🔵🔵🔵🔵", REQUEST HANYA BERLAKU 24 JAM PEMUTARAN FILM
 https://raw.githubusercontent.com/Cutsiffa/Movyyy/refs/heads/main/M1.mp4
 
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/48/27/35/482735aaceb5b336f6f95019814fc517.jpg" group-title="ALQURAN"
+
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",001. Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",002. Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",003. Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",004. An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",005. Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",006. Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",007. Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",008. At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",009. Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",010. Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",011. Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",012. Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",013. Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",014. Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",015. Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",016. An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",017. Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",018. Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",019. Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",020. Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",021. Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",022. Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",023. Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",024. An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",025. Al-Furqaan (Pembeda Hak & Bathil)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",026. Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",027. An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",028. Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",029. Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",030. Ar-Rum (Bangsa Roma)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",031. Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",032. As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",033. Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",034. Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",035. Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",036. Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",037. As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",038. Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",039. Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",040. Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",041. Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",042. Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",043. Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",044. Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",045. Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",046. Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",047. Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",048. Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",049. Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",050. Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",051. Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",052. At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",053. An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",054. Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",055. Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",056. Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",057. Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",058. Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",059. Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",060. Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",061. As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",062. Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",063. Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",064. At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",065. At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",066. At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",067. Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",068. Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",069. Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",070. Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",071. Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",072. A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",073. Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",074. Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",075. Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",076. Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",077. Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",078. An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",079. An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",080. 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",081. At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",082. Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",083. Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",084. Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",085. Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",086. At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",087. Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",088. Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",089. Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",090. Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",091. Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",092. Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",093. Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",094. Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",095. At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",096. Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",097. Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",098. Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",099. Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",100. Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",101. Al-Qari'ah (Hari Yang Hingar)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",102. At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",103. Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",104. Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",105. Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",106. Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",107. Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",108. Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",109. Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",110. An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",111. Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",112. Al-Ikhlas (Tulus Ikhlas / Memurnikan)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",113. Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 group-title="ALQURAN" tvg-logo="https://i.pinimg.com/474x/e9/dd/37/e9dd37d9c255cc8e89db61941c8634bc.jpg",114. An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
 
