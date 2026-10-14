@@ -218,6 +218,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuserid=lite&amp;chname=RTV
  
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg" group-title="🔴⚪NASIONAL",41.bgrijal tv
+https://romiandika.short.gy/TV3.m3u8
 
 #EXTM3U billed-msg="🔵UPDT: klik Muat data ulang untuk update movie saturday"
 
