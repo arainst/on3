@@ -3239,28 +3239,28 @@ https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9a
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",3. MUAT ULANG DATA UNTUK UPDATE FILM
 https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
 
-#EXTINF:-1 tvg-logo="https://malang.disway.id/upload/ad59c8f11d5eb0a8d1bfef3b51901906.jpeg" group-title="HOROR INDO PT3", SEKAWAN GUNUNG KLAWIH
+#EXTINF:-1 type="movie" tvg-logo="https://malang.disway.id/upload/ad59c8f11d5eb0a8d1bfef3b51901906.jpeg" group-title="HOROR INDO PT3", SEKAWAN GUNUNG KLAWIH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDsekawanLimo2.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="HOROR INDO PT3", WARUNG POCONG
+#EXTINF:-1 type="movie" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/04/13/3257753829.jpg" group-title="HOROR INDO PT3", WARUNG POCONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDwarung-pocong1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/if0iklBAvnY/hq720.jpg" group-title="HOROR INDO PT3", TUMBAL PROYEK
+#EXTINF:-1 type="movie" tvg-logo="https://i.ytimg.com/vi/if0iklBAvnY/hq720.jpg" group-title="HOROR INDO PT3", TUMBAL PROYEK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtumbalProyek.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2ZSsI4JTHVw/maxresdefault.jpg" group-title="HOROR INDO PT3", PETAKA GUNUNG WELIRANG
+#EXTINF:-1 type="movie" tvg-logo="https://i.ytimg.com/vi/2ZSsI4JTHVw/maxresdefault.jpg" group-title="HOROR INDO PT3", PETAKA GUNUNG WELIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDpetakaGunungWelirang.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://indopop.id/storage/gambar/Film%20Tumbal%20Darah%20101020251.png" group-title="HOROR INDO PT3", TUMBAL DARAH
+#EXTINF:-1 type="movie" tvg-logo="https://indopop.id/storage/gambar/Film%20Tumbal%20Darah%20101020251.png" group-title="HOROR INDO PT3", TUMBAL DARAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDtumbalDarah.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/r1vFLhQ-bNY/maxresdefault.jpg" group-title="HOROR INDO PT3", KHADAM
+#EXTINF:-1 type="movie" tvg-logo="https://i.ytimg.com/vi/r1vFLhQ-bNY/maxresdefault.jpg" group-title="HOROR INDO PT3", KHADAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/SebutsajaMawar11/rollingvdir/refs/heads/main/B-VDkhadam.m3u8
 
