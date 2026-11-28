@@ -1601,16 +1601,18 @@ https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 https://raw.githubusercontent.com/tipikita/Lcm/refs/heads/main/Mn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="12. ☆INDO EVEN", BRI 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://www.camel1.tv
+#EXTVLCOPT:http-referrer=https://www.camel1.tv/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri1&type=m3u8
 https://raw.githubusercontent.com/tipikita/In/refs/heads/main/Bri1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="12. ☆INDO EVEN", BRI 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-origin=https://www.rbtv77.com
-#EXTVLCOPT:http-referrer=https://teagan01bp.mvksstick9uq6cprotection.cfd/
-#EXTVLCOPT:http-header=Referer: https://teagan01bp.mvksstick9uq6cprotection.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
+#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bri2&type=m3u8
 https://raw.githubusercontent.com/tipikita/In/refs/heads/main/Bri2.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="12. ☆INDO EVEN", BRI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-M127F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
